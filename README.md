@@ -80,6 +80,20 @@ cd C:\Users\User\Desktop\expiration-date
 python -m app.main
 ```
 
+### 5. Docker
+
+#### 5.1 Сборка образа
+
+Из корня проекта, где лежит Dockerfile, выполните:
+```bash
+docker build -t fastapi-faiss .
+```
+
+#### 5.2 Запуск контейнера с использованием файлов внутри образа
+```bash
+docker run -p 8007:8007 --env-file .env fastapi-faiss
+```
+
 ## Важные замечания
 
 - **Запускать нужно из корневой папки проекта** (где находится папка `app`)
