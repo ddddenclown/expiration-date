@@ -10,5 +10,3 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
-
-print(settings.OPENAI_API_KEY)
