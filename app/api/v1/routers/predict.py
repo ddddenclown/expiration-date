@@ -10,7 +10,6 @@ product_crud = ProductCRUD()
 router = APIRouter()
 
 
-
 @router.post("/shelf-life", response_model=ProductResponse, responses={404: {"model": ErrorResponse}})
 async def get_product_shelf_life(product_query: ProductQuery):
     try:
