@@ -17,7 +17,7 @@ API для поиска срока годности товаров по назв
 ## 2. Структура проекта
 
 ```
-semantic/
+expiration-date/
 ├── app/
 │   ├── __init__.py
 │   ├── api/
@@ -44,23 +44,18 @@ semantic/
 
 ## 3. API эндпоинты
 
-- **GET** `/` - Проверка работоспособности API
-- **GET** `/search/shelf-life/{product_name}` - Получение срока годности товара по названию
-- **GET** `/docs` - Автоматическая документация Swagger UI
+- **POST** `/search/shelf-life` - Получение срока годности товара по названию
 
 ## 4. Как запускать
 
 ### 1. Создать виртуальное окружение и перейти в него
 ```bash
 # Создание виртуального окружения
-python -m venv venv
+python -m venv .venv
 
 # Активация виртуального окружения
 # Windows:
-venv\Scripts\activate
-# Linux/Mac:
-source venv/bin/activate
-```
+.venv\Scripts\activate
 
 ### 2. Установить зависимости
 ```bash
@@ -79,7 +74,7 @@ copy env.example .env
 ### 4. Запустить с помощью python -m app.main
 ```bash
 # Убедиться, что вы находитесь в корневой папке проекта
-cd C:\Users\Дмитрий\Desktop\job\semantic
+cd C:\Users\User\Desktop\expiration-date
 
 # Запуск приложения
 python -m app.main
@@ -92,33 +87,5 @@ python -m app.main
 - **Перед запуском надо создать FAISS индекс** (если не скачан - он уже есть готовый в проекте)
 - Если FAISS индекс отсутствует, создайте его командой:
   ```bash
-  cd app
-  python create_faiss.py
+  python -m app.create_faiss
   ```
-
-## Пример использования
-
-После запуска сервера на порту 8007:
-
-```bash
-# Получить срок годности товара
-curl "http://localhost:8007/search/shelf-life/чай%20травяной"
-
-# Ответ
-{
-  "shelf_life_days": 365
-}
-```
-
-## Альтернативные способы запуска
-
-### Через uvicorn напрямую
-```bash
-uvicorn app.main:app --host 0.0.0.0 --port 8007 --reload
-```
-
-### Через main.py
-```bash
-python app/main.py
-```
-
