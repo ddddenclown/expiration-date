@@ -1,0 +1,7580 @@
+[
+  {
+    "index": 0,
+    "ItemName": "Воздушное с кремом в уп. 0.18 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1,
+    "ItemName": "Заварная трубочка с обсып. в уп.0.21 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 2,
+    "ItemName": "Картошка глазированная  в уп.0.400 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 3,
+    "ItemName": "Корзиночка любительская в уп.0.3 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 4,
+    "ItemName": "Корзин.с белк. кремом в уп. 0.3 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 5,
+    "ItemName": "Слоен.труб.с белк.кремом  в уп. 0.25 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 6,
+    "ItemName": "Бисквитно-кремовый 0,5кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 7,
+    "ItemName": "Бисквитно-кремовый 1,0 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 8,
+    "ItemName": "Бисквитно-кремовый 1.5кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 9,
+    "ItemName": "Вацлавский 0.45 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 10,
+    "ItemName": "Вацлавский 0.9 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 11,
+    "ItemName": "Лукошко с грибами 1.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 12,
+    "ItemName": "Подарочный 0.5 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 13,
+    "ItemName": "Подарочный 1.0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 14,
+    "ItemName": "Прага 0.5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 15,
+    "ItemName": "Прага 1.0 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 16,
+    "ItemName": "Пражский 1.0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 17,
+    "ItemName": "Сказка 0.5 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 18,
+    "ItemName": "Сказка 1.0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 19,
+    "ItemName": "Трюфель 0.5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 20,
+    "ItemName": "Трюфель 1.0 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 21,
+    "ItemName": "Трюфель 1.5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 22,
+    "ItemName": "Полет 0.75 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 23,
+    "ItemName": "Ночка 0,5кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 24,
+    "ItemName": "Абрикосовый аромат 0,8кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 25,
+    "ItemName": "Добрынинский 0,9кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 26,
+    "ItemName": "Ленинградский 0,4кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 27,
+    "ItemName": "Ленинградский 0,8кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 28,
+    "ItemName": "Восторг 1.0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 29,
+    "ItemName": "С любовью 0,8 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 30,
+    "ItemName": "Восторг-заказной 2.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 31,
+    "ItemName": "Восторг-заказной 3.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 32,
+    "ItemName": "Восторг-заказной 4.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 33,
+    "ItemName": "День и ночь 2.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 34,
+    "ItemName": "День рождения 2.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 35,
+    "ItemName": "Десерт 1.5 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 36,
+    "ItemName": "Десерт 2.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 37,
+    "ItemName": "Десерт 3.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 38,
+    "ItemName": "Десерт-заказной  2.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 39,
+    "ItemName": "Десерт-заказной  3.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 40,
+    "ItemName": "Детский 2.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 41,
+    "ItemName": "Детский 3.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 42,
+    "ItemName": "К торжеству 2.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 43,
+    "ItemName": "Каприз  2.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 44,
+    "ItemName": "Каприз  3.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 45,
+    "ItemName": "Каприз  4.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 46,
+    "ItemName": "Корзина с клубникой 1.5 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 47,
+    "ItemName": "Корзина с фруктами 4.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 48,
+    "ItemName": "Космический 2.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 49,
+    "ItemName": "Лукошко с грибами 2.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 50,
+    "ItemName": "Нежность 2.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 51,
+    "ItemName": "Радость 2.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 52,
+    "ItemName": "Радость 3.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 53,
+    "ItemName": "Рог изобилия 3.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 54,
+    "ItemName": "Свадебный  3.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 55,
+    "ItemName": "Свадебный  5.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 56,
+    "ItemName": "Торжество 2.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 57,
+    "ItemName": "Цветы юга 2.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 58,
+    "ItemName": "Каприз  1.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 59,
+    "ItemName": "Шоколад Кр.Окт. Слава 75г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 60,
+    "ItemName": "Набор конфет Птичье Молоко РотФронт 200 г НАБОРЫ КОНФЕТ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 61,
+    "ItemName": "Свадебный-йогуртовый 3.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 62,
+    "ItemName": "Свадебный  2.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 63,
+    "ItemName": "Президент 1.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 64,
+    "ItemName": "Идиллия 2.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 65,
+    "ItemName": "Президент 2.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 66,
+    "ItemName": "Президент 3.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 67,
+    "ItemName": "Ретро- \"Слива\" 2.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 68,
+    "ItemName": "Абрикосовый аромат 0,4кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 69,
+    "ItemName": "Постный 0,8кг СЕЗОННЫЙ ТОВАР",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 70,
+    "ItemName": "Чай ГРИНФИЛД Голден Цейлон 25пак*2гр на вылет штучный",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 71,
+    "ItemName": "Профитроли с  зав. кр. \"Патиссьер\" в уп.0.185 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 72,
+    "ItemName": "Горячий шоколад 1.0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 73,
+    "ItemName": "Пирожные разные(корзиночки) 0.3 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 74,
+    "ItemName": "Заварная трубочка-ассорти 0,195 в уп. ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 75,
+    "ItemName": "Мини пирожное \"Ассорти\"    0.315 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 76,
+    "ItemName": "Профитроли с  зав. кр. \"Патиссьер\" в уп.0.4 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 77,
+    "ItemName": "Радость 1.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 78,
+    "ItemName": "Нежность 1.0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 79,
+    "ItemName": "Йогуртово-клубничный мусс 0.95 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 80,
+    "ItemName": "Ретро- \"Слива\" 1.5 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 81,
+    "ItemName": "Шарм 0.8 кг Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 82,
+    "ItemName": "Киевский 0.7 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 83,
+    "ItemName": "Йогуртово-клубничный мусс 2.0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 84,
+    "ItemName": "Мини пирожное \"Ассорти\" 0,573 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 85,
+    "ItemName": "Печенье  \"Бакинское курабье\" 400г Печенье Весна М",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 86,
+    "ItemName": "Свадебный  1.0 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 87,
+    "ItemName": "пирож. Миндальное 195гр.в уп. Печенье Весна М",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 88,
+    "ItemName": "Наполеон 0,83кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 89,
+    "ItemName": "Обрезки кондитерские сырье",
+    "Description": "",
+    "LifeTime": 1
+  },
+  {
+    "index": 90,
+    "ItemName": "Творог м.д.ж. 5% 350г БЗМЖ ротация",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 91,
+    "ItemName": "Творог м.д.ж. 9% 350г БЗМЖ ротация",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 92,
+    "ItemName": "Пирожное Макарони 70 г _на вылет кондитера и прочие",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 93,
+    "ItemName": "Дольки апельсина в горьк шоколаде 150 г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 94,
+    "ItemName": "Дольки апельсина в мол шоколаде 150  г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 95,
+    "ItemName": "Чизкейк  \"New-York\" (классический) 113 гр. ПЛАНЕТА  (ПРЕСТИЖ) пирожные",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 96,
+    "ItemName": "Напиток \"VI FRESH\" Тархун 0,5л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 547
+  },
+  {
+    "index": 97,
+    "ItemName": "Напиток \"VI FRESH\" Дюшес 0,5л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 547
+  },
+  {
+    "index": 98,
+    "ItemName": "Напиток \"VI FRESH\" Саперави 0,5л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 547
+  },
+  {
+    "index": 99,
+    "ItemName": "Напиток \"VI FRESH\" Лимонад 0,5л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 547
+  },
+  {
+    "index": 100,
+    "ItemName": "Напиток \"VI FRESH\" Барбарис 0,5л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 547
+  },
+  {
+    "index": 101,
+    "ItemName": "Пирожное Мусс тыквенный десерт 0,17 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 102,
+    "ItemName": "СОК БЕРЕЗОВЫЙ с сахаром стерилиз., без консерв., 0,5 л ПЭТ НАПИТКИ",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 103,
+    "ItemName": "(не_исп)Сосиска в сл. тесте \"Добрынинская\" 0,1 ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 104,
+    "ItemName": "(не_исп)Сосиска в тесте \"Добрынинская\" 0,11 ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 105,
+    "ItemName": "Иван-чай крупнолистовой классический, 40 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 106,
+    "ItemName": "Иван-чай крупнолистовой с листьями мяты перечной, 40 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 107,
+    "ItemName": "Иван-чай крупнолистовой с листьями и ягодами брусники, 40 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 108,
+    "ItemName": "Травяной чай Сибирское здоровье, 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 109,
+    "ItemName": "Травяной чай Легкое дыхание, 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 110,
+    "ItemName": "Травяной чай Облепиховый, 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 111,
+    "ItemName": "Травяной чай Лесной букет, 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 112,
+    "ItemName": "Травяной чай Липовый, 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 113,
+    "ItemName": "Травяной чай Витаминный, 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 114,
+    "ItemName": "Травяной чай Монастырский, 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 115,
+    "ItemName": "Травяной чай Бодрое утро, 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 116,
+    "ItemName": "Травяной чай Грация и стройность, 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 117,
+    "ItemName": "Мусс йогуртово - апельсиновый 0,17 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 118,
+    "ItemName": "Пирожное Сочинское 0,22 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 119,
+    "ItemName": "Слоеный с вишн. нач. 0,7 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 120,
+    "ItemName": "Сметанный с ананасом и орехами 0,7 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 121,
+    "ItemName": "Сырники творожные 5% 250г  п/конт БЗМЖ ТВОРОГ/ ТВОРОЖЕНЫЙ КРЕМ",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 122,
+    "ItemName": "Сметанный с вишней и орехами 0,7 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 123,
+    "ItemName": "Воздушное с кремом и лим. джемом в уп. 0.09 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 124,
+    "ItemName": "Колбаса Ветчинно-рубленная в/к  вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 125,
+    "ItemName": "Рулетики песочные с орехами 0,25 РУЛЕТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 126,
+    "ItemName": "Печенье сдобное \"Курабье\" 0.2 ПЕЧЕНЬЕ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 127,
+    "ItemName": "Фуэте 0,6 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 128,
+    "ItemName": "Комплимент 0,7 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 129,
+    "ItemName": "Маэстро 0,72 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 130,
+    "ItemName": "Торт Поп Ит 0,65 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 131,
+    "ItemName": "Пирожное Сочинское с вишней 0,22 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 132,
+    "ItemName": "Пирожное Сочинское с арахисом 0,22 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 133,
+    "ItemName": "ЧАК-ЧАК Бахетле 250 г КОНДИТЕРСКАЯ ВЫПЕЧКА",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 134,
+    "ItemName": "Добрынинский ШоКо 0,6 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 135,
+    "ItemName": "Волшебный подарок 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 136,
+    "ItemName": "Волшебный подарок 1,0 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 137,
+    "ItemName": "Добрынинская сказка 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 138,
+    "ItemName": "Добрынинская сказка 1,0 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 139,
+    "ItemName": "Розовое озеро 0,9 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 140,
+    "ItemName": "Воздушный полет 0,75 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 141,
+    "ItemName": "Рио-Кокосо 0,7 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 142,
+    "ItemName": "Добрынинская фисташка 0,6 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 143,
+    "ItemName": "Эко-Лакомка 1,3 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 144,
+    "ItemName": "Кондитерская симфония 0,72 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 145,
+    "ItemName": "Мусс три шоколада заказной 3,0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 146,
+    "ItemName": "Свечи в торт «Спираль», 10 шт., средние, 5 см, золотой металлик Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 1825
+  },
+  {
+    "index": 147,
+    "ItemName": "Свеча для торта музыкальная \"Тюльпан\", крутящаяся, синяя, 14,5х6 см Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 1825
+  },
+  {
+    "index": 148,
+    "ItemName": "Свеча для торта музыкальная \"Тюльпан\", крутящаяся, розовая, 14,5х6 см Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 1825
+  },
+  {
+    "index": 149,
+    "ItemName": "Свеча для торта \"Вечно пьяный\", 5х8,5см, зеленая Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 150,
+    "ItemName": "Свеча для торта \"Танцуй\", заяц, 10х10см, черная Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 151,
+    "ItemName": "Кетчуп Томатный Хайнц дой-пак 320г МАЙОНЕЗ",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 152,
+    "ItemName": "Напиток \"VI FRESH\" Сливочный 0,5л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 153,
+    "ItemName": "Ватрушки сл. «Добрынинские» c курагой 0,3 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 154,
+    "ItemName": "Ватрушки сл. «Добрынинские» с капустой 0,3 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 155,
+    "ItemName": "Ватрушки сл. «Добрынинские» с твор. и вишн. нач. 0,3 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 40
+  },
+  {
+    "index": 156,
+    "ItemName": "Ватрушки сл. «Добрынинские» с твор. нач. и лим. 0,3 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 40
+  },
+  {
+    "index": 157,
+    "ItemName": "Ватрушки сл. «Добрынинские» три сыра со шпинатом 0,3 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 158,
+    "ItemName": "Пирожки \"Добрынинские\" с капустой 0,42 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 159,
+    "ItemName": "Пирожки \"Добрынинские\" с курицей 0,42 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 160,
+    "ItemName": "Пирожки \"Добрынинские\" с мясом 0,42 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 161,
+    "ItemName": "Пирожки \"Добрынинские\" с печенью 0,42 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 162,
+    "ItemName": "Пирожки \"Добрынинские\" с яблочной начинкой 0,42 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 163,
+    "ItemName": "Пирожки \"Добрынинские\" с картошкой и грибами 0,42 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 164,
+    "ItemName": "Сосиски в сл. тесте \"Добрынинские\" 0,5 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 165,
+    "ItemName": "Сосиски в тесте \"Добрынинские\" 0,44 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 166,
+    "ItemName": "Сочники с творожной начинкой 0,4 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 167,
+    "ItemName": "Шоколадно - банановый 0,6 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 168,
+    "ItemName": "Творог м.д.ж. 1% 350г БЗМЖ ТВОРОГ/ ТВОРОЖЕНЫЙ КРЕМ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 169,
+    "ItemName": "Альтернативное молоко Кокос 1 л _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 170,
+    "ItemName": "Пирожное Медовое 0,125 ПИРОЖНЫЕ(штучные)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 171,
+    "ItemName": "Пирожное Прага 0,125 ПИРОЖНЫЕ(штучные)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 172,
+    "ItemName": "Пирожное Трюфель 0,125 ПИРОЖНЫЕ(штучные)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 173,
+    "ItemName": "Пирожное Горячий шоколад 0,125 ПИРОЖНЫЕ(штучные)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 174,
+    "ItemName": "Пирожное Волшебный подарок 0,125 ПИРОЖНЫЕ(штучные)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 175,
+    "ItemName": "Хэллоуин 0,6 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 176,
+    "ItemName": "Красная икра Кета 100г твист ст.банка КРАСНАЯ ИКРА/ДЕЛИКАТЕСЫ",
+    "Description": "",
+    "LifeTime": 183
+  },
+  {
+    "index": 177,
+    "ItemName": "Печенье Туиль с кунжутом 160г КОНДИТЕРСКАЯ ВЫПЕЧКА",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 178,
+    "ItemName": "Окорок Тамбовский бескостный в/к вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 179,
+    "ItemName": "Рулет из рульки с паприкой в/к вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 180,
+    "ItemName": "Добрынинский с сол. карам. 0,85 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 181,
+    "ItemName": "Картошка Новогодняя уп. 0,4 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 182,
+    "ItemName": "Каша пшённая на молоке 300г БЗМЖ КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 183,
+    "ItemName": "Корица молотая 250гр в пласт. банке _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 184,
+    "ItemName": "Кукла сахарная 0,23 ФИГУРНЫЕ ТОРТЫ- МАСТИКА",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 185,
+    "ItemName": "Белая ночь 0,95 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 186,
+    "ItemName": "Зимний лес 0,9 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 187,
+    "ItemName": "Суфле(Пай)  молочн. с бисквитом в молоч. шоколаде 60г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 188,
+    "ItemName": "Символ года 0,55 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 189,
+    "ItemName": "(не_исп)Кекс Кулич \"Добрынинский\" творожный 0,33 КУЛИЧИ не работаем",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 190,
+    "ItemName": "(не_исп)Кекс Кулич Пасхальный \"Добрынинский\" 0,4 КУЛИЧИ не работаем",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 191,
+    "ItemName": "(не_исп.)Кекс Кулич \"Добрынинский\" 0,45 КУЛИЧИ не работаем",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 192,
+    "ItemName": "Смородинка 0,75 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 193,
+    "ItemName": "Чудо-Вишня 0,45 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 194,
+    "ItemName": "Элиза 2,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 195,
+    "ItemName": "Элиза 3,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 196,
+    "ItemName": "Свеча для торта \"Ведьмы не стареют\", 10х10 см Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 197,
+    "ItemName": "Свеча для торта \"С днем рождения, померь давление\", кот, 10х10 см Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 198,
+    "ItemName": "Набор тортовых свечей фонтанов \"Золотой узор\", 10 см, 3 шт Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 199,
+    "ItemName": "Кекс Рождественский 0,65 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 15
+  },
+  {
+    "index": 200,
+    "ItemName": "Мусс Десерт с ягодами 0,135 ПИРОЖНЫЕ(штучные)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 201,
+    "ItemName": "Салат Цезарь с курицей 170г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 202,
+    "ItemName": "Праздничный вечер 0,55 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 203,
+    "ItemName": "Булочка с маком глазир. 0,13 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 204,
+    "ItemName": "Белая ночь 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 205,
+    "ItemName": "Белая ночь (к празднику) 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 206,
+    "ItemName": "Козинаки из тыквенных семечек Каравайка 180г ВОСТОЧНЫЕ СЛАДОСТИ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 207,
+    "ItemName": "Пельмени Радуга 750 гр 3.ГОТОВАЯ ПРОДУКЦИЯ",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 208,
+    "ItemName": "Дамплинги Бибиго королевские 385 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 209,
+    "ItemName": "Пицца Четыре сыра ICE замор. 290г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 210,
+    "ItemName": "Пицца Пепперони ICE замор.280г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 211,
+    "ItemName": "Пицца Баварская Мясная 15*30 ICE/335 гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 212,
+    "ItemName": "Масса творожная с изюмом мдж 4,5% 400г БЗМЖ ТВОРОГ/ ТВОРОЖЕНЫЙ КРЕМ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 213,
+    "ItemName": "Энерг.напиток RED  BULL ж/б 0,25 л Напитки",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 214,
+    "ItemName": "Жев. рез. Орбит Белоснежный BUBBLEMINT13,6г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 215,
+    "ItemName": "Жев.резинка WRIGLEY'S Spearmint пластинки 13г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 458
+  },
+  {
+    "index": 216,
+    "ItemName": "Печенье песочное с предсказанием Удачи 35г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 217,
+    "ItemName": "Пирожное Сочинское 220 г МУЧНИСТЫЕ КОНДИТЕРСКИЕ ИЗДЕЛИЯ И ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 218,
+    "ItemName": "Эклеры \"Добрынинские\" ассорти уп. 0,15 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 219,
+    "ItemName": "Картошка глазированная в уп. 0,24 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 220,
+    "ItemName": "Рыжик 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 221,
+    "ItemName": "Десерт Добрынинский \"Пасха\" 0,42 КУЛИЧИ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 222,
+    "ItemName": "Клюква вяленая в крафт-коробке 150 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 223,
+    "ItemName": "Иван-чай крупнолистовой с листьями и ягодами смородины 40 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 224,
+    "ItemName": "Травяной чай Смородиновый, 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 225,
+    "ItemName": "Травяной чай Земляничный, 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 226,
+    "ItemName": "Травяной чай Успокоительный, 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 227,
+    "ItemName": "Хлеб Миланский 600г (белый пшеничный) КАРАВАЙ СВ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 228,
+    "ItemName": "Кекс \"Добрынинский\" 0,5 кг КЕКСЫ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 229,
+    "ItemName": "Сардельки Телячьи  в нат. обол. вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 230,
+    "ItemName": "Добрынинский с суфле и вишней 0,8 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 231,
+    "ItemName": "Добрынинский с черн. смор. 0,85 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 232,
+    "ItemName": "Молоко топленое 2,5% 500г БЗМЖ МОЛОКО",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 233,
+    "ItemName": "Альтернативное молоко Кокос-Банан 1 л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 234,
+    "ItemName": "Добрынинский смайлик уп. 0,36 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 235,
+    "ItemName": "Добрынинское лето уп. 0,225 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 236,
+    "ItemName": "Сырок творожный глазир.с ванилином \"36\" 26% 40 г БЗМЖ МК ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 237,
+    "ItemName": "Свеча для торта \"На год ближе к пенсии\", 10х10 см, черная Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 238,
+    "ItemName": "Колбаса Русская вареная  400г РУБЛЕВСКИЕ КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 239,
+    "ItemName": "Добрынинский смайлик уп. 0,18 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 240,
+    "ItemName": "Сочник с творогом 0,4 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 241,
+    "ItemName": "Апельсиновая карамель 0,48 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 242,
+    "ItemName": "Йогуртово-клубничный мусс 3,0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 243,
+    "ItemName": "Кофе натуральный свежеобж.молотый 0,25 кг CТМ Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 244,
+    "ItemName": "Кранц с шоколадной начинкой 0,45 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 12
+  },
+  {
+    "index": 245,
+    "ItemName": "Сосновый мармелад 110г. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 246,
+    "ItemName": "Мармелад из жимолости 110 г, Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 247,
+    "ItemName": "Иван-чай с имбирем и малиной 40г. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 248,
+    "ItemName": "Иван-чай с имбирем и облепихой 40г. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 249,
+    "ItemName": "Иван-чай с имбирем и смородиной 40г. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 250,
+    "ItemName": "Иван-чай с имбирем, цедрой лимона и апельсина 50г. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 251,
+    "ItemName": "Десерт творож. Клубника-дыня 15% 180г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 252,
+    "ItemName": "Десерт творож. вишня 15% 180г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 253,
+    "ItemName": "Ирис Чув Чав Гималайская соль 27г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 254,
+    "ItemName": "Ирис Чув Чав Грецкий орех с розмарином 27г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 255,
+    "ItemName": "Ирис Чув Чав Манго-маракуйя 27г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 256,
+    "ItemName": "Мини пирожное \"Ассорти\" 0,354 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 257,
+    "ItemName": "Трюфели классические «Cocoa Collection» «Libertad» 120г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 258,
+    "ItemName": "Трюфели со вкусом шампанского «Elegant collection» «Libertad» 120г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 259,
+    "ItemName": "Десерт творожный с манго-маракуйя 180г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 260,
+    "ItemName": "Десерт творожный с вишней 180г ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 261,
+    "ItemName": "Йогурт с киви 270гр.БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 262,
+    "ItemName": "Десерт творожный с ягодами 180г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 263,
+    "ItemName": "(Х5) Бисквитное со сливоч. кремом в уп. 0,225 ПРОДУКЦИЯ ДЛЯ Х5 (НЕ РАБОТАЕМ)",
+    "Description": "",
+    "LifeTime": 36
+  },
+  {
+    "index": 264,
+    "ItemName": "(Х5) Корзин.с белк. кремом в уп. 0.3 ПРОДУКЦИЯ ДЛЯ Х5 (НЕ РАБОТАЕМ)",
+    "Description": "",
+    "LifeTime": 36
+  },
+  {
+    "index": 265,
+    "ItemName": "(Х5) Абрикосовый аромат 0,4кг ПРОДУКЦИЯ ДЛЯ Х5 (НЕ РАБОТАЕМ)",
+    "Description": "",
+    "LifeTime": 36
+  },
+  {
+    "index": 266,
+    "ItemName": "(Х5) Воздушный полет 0,75 ПРОДУКЦИЯ ДЛЯ Х5 (НЕ РАБОТАЕМ)",
+    "Description": "",
+    "LifeTime": 36
+  },
+  {
+    "index": 267,
+    "ItemName": "(Х5) Волшебный подарок 0,5 ПРОДУКЦИЯ ДЛЯ Х5 (НЕ РАБОТАЕМ)",
+    "Description": "",
+    "LifeTime": 36
+  },
+  {
+    "index": 268,
+    "ItemName": "(Х5) Добрынинская сказка 0,5 ПРОДУКЦИЯ ДЛЯ Х5 (НЕ РАБОТАЕМ)",
+    "Description": "",
+    "LifeTime": 36
+  },
+  {
+    "index": 269,
+    "ItemName": "(Х5) Ленинградский 0,4кг ПРОДУКЦИЯ ДЛЯ Х5 (НЕ РАБОТАЕМ)",
+    "Description": "",
+    "LifeTime": 36
+  },
+  {
+    "index": 270,
+    "ItemName": "(Х5) Трюфель 0.5 ПРОДУКЦИЯ ДЛЯ Х5 (НЕ РАБОТАЕМ)",
+    "Description": "",
+    "LifeTime": 36
+  },
+  {
+    "index": 271,
+    "ItemName": "(Х5) Картошка глазированная в уп. 0,24 ПРОДУКЦИЯ ДЛЯ Х5 (НЕ РАБОТАЕМ)",
+    "Description": "",
+    "LifeTime": 36
+  },
+  {
+    "index": 272,
+    "ItemName": "(Х5) Киевский 0,4 ПРОДУКЦИЯ ДЛЯ Х5 (НЕ РАБОТАЕМ)",
+    "Description": "",
+    "LifeTime": 36
+  },
+  {
+    "index": 273,
+    "ItemName": "(Х5) Эклер 0,14 ПРОДУКЦИЯ ДЛЯ Х5 (НЕ РАБОТАЕМ)",
+    "Description": "",
+    "LifeTime": 36
+  },
+  {
+    "index": 274,
+    "ItemName": "Рулетики из ветчины с сыром и чесноком 180г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 275,
+    "ItemName": "Гигиенические влажные салфетки \"ФрешЛанд\" 60 шт/уп (детские) Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 276,
+    "ItemName": "Мармелад желейный на палочке \"Мармики\" 50 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 277,
+    "ItemName": "Омлет с ветчиной и сыром 140г - КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 278,
+    "ItemName": "Онигири с креветкой 120г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 279,
+    "ItemName": "Онигири Тунец  120г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 280,
+    "ItemName": "Онигири  Угорь 120г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 281,
+    "ItemName": "Онигири Филадельфия 120г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 282,
+    "ItemName": "Иван-чай крупнолистовой с листьями и ягодами облепихи брусники, 40 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 283,
+    "ItemName": "Бенто Манго 0,27 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 284,
+    "ItemName": "Бенто Лаванда 0,27 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 285,
+    "ItemName": "Бенто Клубника 0,27 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 286,
+    "ItemName": "Пирожн. \"Заварные КОЛЕЧКИ\" (сахар), 220г ПРОДУКЦИЯ КОНТЕК (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 287,
+    "ItemName": "Печенье сдоб. песоч. \"Олапетит\" с вишн. джемом, 250г ПРОДУКЦИЯ КОНТЕК (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 288,
+    "ItemName": "Пирожн. слоен. \"Аппетитный УГОЛОК\" с сах. посып., 210г ПРОДУКЦИЯ КОНТЕК (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 289,
+    "ItemName": "Изд. хлебобул. сдобн. \"Фигурный БИСКВИТ\" с изюмом, 120 г ПРОДУКЦИЯ КОНТЕК (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 290,
+    "ItemName": "Изд. хлебобул. слоен.\"Фигурный Мини КРУАССАН\" с варен. сгущ., 400г ПРОДУКЦИЯ КОНТЕК (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 35
+  },
+  {
+    "index": 291,
+    "ItemName": "Шокорум 0,13 кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 292,
+    "ItemName": "Брауни 0,22 кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 293,
+    "ItemName": "Хлеб Любимый 1000г КАРАВАЙ СВ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 294,
+    "ItemName": "Вода ARGIL AQUA газ 1л Вода",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 295,
+    "ItemName": "Напиток Lotte Милкис манго 250мл Напитки",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 296,
+    "ItemName": "Вода ARGIL AQUA без газ 1л Напитки",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 297,
+    "ItemName": "Вода ARGIL AQUA газ 0,5л Напитки",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 298,
+    "ItemName": "Напиток STARBAR CRAFT 0,33л черника,лимона,лаванда Напитки",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 299,
+    "ItemName": "Напиток STARBAR CRAFT 0,33л малина,грейпфрут Напитки",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 300,
+    "ItemName": "Вода ARGIL AQUA без газ 0,5л Напитки",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 301,
+    "ItemName": "Ореховая смесь ПРЕМИАЛЬНАЯ с манго, 100 гр. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 302,
+    "ItemName": "Ореховая смесь ПРЕМИАЛЬНАЯ с папайей,100 гр. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 303,
+    "ItemName": "Amidis, Манго сушеное (лист), 113 г. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 304,
+    "ItemName": "Шаурма с говядиной 230г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 305,
+    "ItemName": "Шаурма с курицей 230г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 306,
+    "ItemName": "Панакота шоколадная 180г ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 307,
+    "ItemName": "Кебаб из говядины в лаваше 230г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 308,
+    "ItemName": "Печенье Туиль с тыквенными семечками 160г Ф.ПЕЧЕНЬЯ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 309,
+    "ItemName": "Карамельная девочка 0,96 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 310,
+    "ItemName": "Грецкий орех с сол. карам. 0,8 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 311,
+    "ItemName": "Миндальный с сол. карам. 1,0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 312,
+    "ItemName": "Напиток Сенежская лимон +мята 1,0 л не газ Напитки",
+    "Description": "",
+    "LifeTime": 300
+  },
+  {
+    "index": 313,
+    "ItemName": "Напиток Сенежская лимон +мята 1,0 л газ Напитки",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 314,
+    "ItemName": "Набор \"Шоколадная Ложечка микс\" (54г.) Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 315,
+    "ItemName": "Молдавский пирог с творогом и зеленью 250г К-ЭКСПРО мелкоштучка",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 316,
+    "ItemName": "Грецкий орех с сол. карам. 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 317,
+    "ItemName": "Миндальный с сол. карам. 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 318,
+    "ItemName": "Ватрушка \"Венгерская\" 80 г К-ЭКСПРО мелкоштучка",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 319,
+    "ItemName": "Айран «Турецкий» 2% 500г БЗМЖ НАПИТКИ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 320,
+    "ItemName": "Айран «Турецкий» с укропом, петрушкой, чесноком 1,5% 500г БЗМЖ НАПИТКИ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 321,
+    "ItemName": "Салат Цезарь с индейкой 200гр КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 322,
+    "ItemName": "Сушка Крошечная 200г Ф.ПЕЧЕНЬЯ",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 323,
+    "ItemName": "Баклажаны-рулетики 300г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 324,
+    "ItemName": "Йогурт питьевой с вишней 2,5% 290г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 325,
+    "ItemName": "Йогурт питьевой с клубникой 2,5% 290г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 326,
+    "ItemName": "Йогурт питьевой с персиком 2,5% 290г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 327,
+    "ItemName": "Рогалики с абрик. джемом 0,3 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 328,
+    "ItemName": "СТАКАН для КОФЕ БРЕНДИРОВАННЫЙ 500 мл АРТЛАСТ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 329,
+    "ItemName": "Творог рассыпчатый  5,0 %  200 г кор.БЗМЖ ТВОРОГ/ ТВОРОЖЕНЫЙ КРЕМ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 330,
+    "ItemName": "Свечи фонтаны для торта \"Радужные искры\" 10 см, 30 секунд, цветное пламя, 4 шт Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 331,
+    "ItemName": "Набор столовых приборов 2 (вилка 180 черн, салфетка 24х24) Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 1095
+  },
+  {
+    "index": 332,
+    "ItemName": "Набор столовых приборов 2 (столовая ложка 180 черн, салфетка 24х24) Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 1095
+  },
+  {
+    "index": 333,
+    "ItemName": "Пахлава Озель грецкий орех 450г ВОСТОЧНЫЕ СЛАДОСТИ",
+    "Description": "",
+    "LifeTime": 300
+  },
+  {
+    "index": 334,
+    "ItemName": "Донат глазир.Тутти-Фрутти 55г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 335,
+    "ItemName": "Йогурт сливочный с персиком 5,0% 150г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 336,
+    "ItemName": "Карамель в виде сердца с куклой BARBIE 20г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 337,
+    "ItemName": "Пряники Мятные 300 гр ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 75
+  },
+  {
+    "index": 338,
+    "ItemName": "Карбонад к/в вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 339,
+    "ItemName": "Чай подарочный Книга - Подарок мужчине ж/б 75 г 23 февраля 8 марта",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 340,
+    "ItemName": "Креп де Пари карамельный 0,65 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 341,
+    "ItemName": "Колбаса Тарусская с/к вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 342,
+    "ItemName": "Майонез Я Люблю Готовить МП 67% 200 мл МАЙОНЕЗ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 343,
+    "ItemName": "Миндальный с сол. карам. (VIP) 1,3 Продукция Де-Люкс не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 344,
+    "ItemName": "Миндальный с сол. карам. 1,3 Продукция Де-Люкс не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 345,
+    "ItemName": "Шоколадная колбаса с орехом, 300 г Ф.ПИРОЖНЫЕ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 346,
+    "ItemName": "Грецкий орех с сол. карам. 1,2 Продукция Де-Люкс не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 347,
+    "ItemName": "Грецкий орех с сол. карам. 1,35 Продукция Де-Люкс не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 348,
+    "ItemName": "Колбаса Краковская п/к вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 349,
+    "ItemName": "Пирожное Белиссимо 0,075 ПИРОЖНЫЕ(штучные)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 350,
+    "ItemName": "Белиссимо 0,55 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 351,
+    "ItemName": "Бекон нарезка в/к  вес (нет цены) КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 15
+  },
+  {
+    "index": 352,
+    "ItemName": "Добрынинская фисташка 1,3 Продукция Де-Люкс не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 353,
+    "ItemName": "Лакомка Добрынинская Де-Люкс 1,3 Продукция Де-Люкс не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 354,
+    "ItemName": "Чизкейк с ягодами Добрынинский Де-Люкс 1,35 Продукция Де-Люкс не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 355,
+    "ItemName": "Мусс три шоколада Добрынинский Де-Люкс 1,15 Продукция Де-Люкс не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 356,
+    "ItemName": "Грецкий орех с сол. карам. 1,0 Продукция Де-Люкс не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 357,
+    "ItemName": "Паста Карбонара 300гр КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 358,
+    "ItemName": "Шоколад Добрынинский горький 70% какао с гранолой, малиной и миндалем 80г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 359,
+    "ItemName": "Крендель соленый 200 г ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 360,
+    "ItemName": "Апельсиновый сок VI NATURE 0,75 л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 361,
+    "ItemName": "Крендель сладкий 200 г ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 362,
+    "ItemName": "Вишневый сок VI NATURE 0,75 л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 363,
+    "ItemName": "Яблочный сок VI NATURE 0,75 л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 364,
+    "ItemName": "АШТАУ лечебно-столовая минеральная вода 0,5 л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 365,
+    "ItemName": "Паста Болоньезе 300гр КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 366,
+    "ItemName": "Ромовая баба 150 г* Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 367,
+    "ItemName": "Миндальный с сол. карам. Добрынинский Де-Люкс 1,0 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 368,
+    "ItemName": "Соломка соленая 200 г ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 369,
+    "ItemName": "Соломка сладкая 200 г ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 370,
+    "ItemName": "Студень Домашний 500г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 371,
+    "ItemName": "Альтернативное молоко Миндаль 1 л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 372,
+    "ItemName": "Сыр Алтайский 200 г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 373,
+    "ItemName": "Сыр Швейцарский 200 г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 374,
+    "ItemName": "Сыр Российский 200г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 375,
+    "ItemName": "ЭЧ-ПОЧМАК с ИНДЕЙКОЙ 150г ГАРИФУЛЛИНА  мелкоштучка",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 376,
+    "ItemName": "Меренговый рулет с вишней 250 г Ф.ПИРОЖНЫЕ",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 377,
+    "ItemName": "Самса из курицы 150г ГАРИФУЛЛИНА  мелкоштучка",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 378,
+    "ItemName": "Запеканка с апельсиновыми цукатами  250г БЗМЖ (не выбирать) КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 379,
+    "ItemName": "Грецкий орех с сол. карам. Добрынинский Де-Люкс 1,0 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 380,
+    "ItemName": "Круассан Миндальный с вишней 140г К-ЭКСПРО мелкоштучка",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 381,
+    "ItemName": "Заливное из индейки 300г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 382,
+    "ItemName": "Холодец говяжий 300г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 383,
+    "ItemName": "Холодец \"Домашний\" говядина/курица 300г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 384,
+    "ItemName": "ВОК гречневая лапша  с курицей 300гр КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 385,
+    "ItemName": "Сыр Тильзитер 350г нарезка для сендвичей СЫРЫ",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 386,
+    "ItemName": "Шоколад Коммунарка горький с пюре из черной смородины 200 г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 387,
+    "ItemName": "Шоколадное Драже \"Перепелиные яйца\" 200 г НАБОРЫ КОНФЕТ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 388,
+    "ItemName": "Икра красная Нерка 100г твист ст.банка КРАСНАЯ ИКРА/ДЕЛИКАТЕСЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 389,
+    "ItemName": "Шоколад Добрынинский молочный с гранолой, клубникой и фундуком 80г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 300
+  },
+  {
+    "index": 390,
+    "ItemName": "СЫРНИКИ твор.с Яблоком 0,34кг БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 391,
+    "ItemName": "Блинчики с курицей в сливочном соусе 160г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 392,
+    "ItemName": "Ветчина куриная Нежная в/с, вес (нет цены) КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 15
+  },
+  {
+    "index": 393,
+    "ItemName": "Пахлава Бохча грецкий орех и фисташки 450г ВОСТОЧНЫЕ СЛАДОСТИ",
+    "Description": "",
+    "LifeTime": 300
+  },
+  {
+    "index": 394,
+    "ItemName": "Горбуша филе-ломтики с/с в/у 150г МОРЕПРОДУКТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 395,
+    "ItemName": "Улитка с творогом и изюмом 100г ГАРИФУЛЛИНА  мелкоштучка",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 396,
+    "ItemName": "Куриное филе с помидорами под сыром с макаронами 250гр КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 397,
+    "ItemName": "Шницель из свинины с рисом 250гр КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 398,
+    "ItemName": "Оладьи куриные с гречкой 250гр КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 399,
+    "ItemName": "Сыр Пармезан 200г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 400,
+    "ItemName": "Конфеты Халва Рот Фронт 370г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 401,
+    "ItemName": "Морс облепиховый с клюквой VI NATURE ПЭТ 0,5 л НАПИТКИ",
+    "Description": "",
+    "LifeTime": 273
+  },
+  {
+    "index": 402,
+    "ItemName": "Креп де Пари клубничный 0,9 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 403,
+    "ItemName": "Йогурт сливочный яблоко-корица 5% 150г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 404,
+    "ItemName": "Фрукт.леденцы Candy Lane фрукт.коктейль ж/б 200г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 405,
+    "ItemName": "Добрынинская фисташка Де-Люкс 1,0 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 406,
+    "ItemName": "Оладьи куриные 150гр КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 407,
+    "ItemName": "Эко-Лакомка Добрынинская Де-Люкс 1,2 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 408,
+    "ItemName": "Фетучини с курицей и грибами 300гр КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 409,
+    "ItemName": "Чизкейк Добрынинский Де-Люкс 1,35 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 410,
+    "ItemName": "Чай черный листовой Ча Бао Пуэр 100г ЧАЙ ШТУЧНЫЙ",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 411,
+    "ItemName": "Креп де Пари карамельный 0,95 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 412,
+    "ItemName": "Пирожки постные \"Добрынинские\" с капустой 0,42 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 413,
+    "ItemName": "Пирожки постные \"Добрынинские\" с яблочной начинкой 0,42 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 414,
+    "ItemName": "Пирожки постные \"Добрынинские\" с картошкой и грибами 0,42 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 415,
+    "ItemName": "Грецкий орех с сол. карам. Добрынинский Де-Люкс 0,9 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 416,
+    "ItemName": "Домашний медовик 0,8 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 417,
+    "ItemName": "Чай зеленый листовой Ча Бао Молочный улун 100г Чай",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 418,
+    "ItemName": "Печенье Морковное постное 250г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 419,
+    "ItemName": "Нагутская-17 мин.природ. лечебн. стол. вода 0,5 л. стекло НАПИТКИ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 420,
+    "ItemName": "Йогурт термостатный Манго-Маракуйя 160 г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 421,
+    "ItemName": "Йогурт термостатный Лесная ягода-Черная смородина 160 г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 422,
+    "ItemName": "Йогурт термостатный Вишня-Брусника 160 г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 423,
+    "ItemName": "Йогурт термостатный Клубника 160 г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 424,
+    "ItemName": "Добрынинская птичка 0,45 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 425,
+    "ItemName": "Добрынинская птичка 0,9 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 426,
+    "ItemName": "Медовик 1,0 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 427,
+    "ItemName": "Мусс Три вкуса Добрынинский Де-Люкс 1,15 Продукция Де-Люкс не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 428,
+    "ItemName": "Краффин с клубн. джемом 0,15 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 96
+  },
+  {
+    "index": 429,
+    "ItemName": "Кекс-Кулич \"Добрынинский\" 0,45 КУЛИЧИ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 430,
+    "ItemName": "Кекс-Кулич \"Добрынинский\" творожный 0,33 КУЛИЧИ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 431,
+    "ItemName": "Кекс-Кулич Пасхальный \"Добрынинский\" 0,4 КУЛИЧИ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 432,
+    "ItemName": "Мусс Три вкуса 0,9 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 433,
+    "ItemName": "Хала сдобная 300г ПУШКИНОХЛЕБ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 434,
+    "ItemName": "Гранатовый сок прямого отжима VI NATURE 0,75 л. НАПИТКИ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 435,
+    "ItemName": "Мадлен с черн. смор. 50 гр НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 436,
+    "ItemName": "Мадлен с черн. смор. 70 гр НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 437,
+    "ItemName": "Мадлен 0,17 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 438,
+    "ItemName": "Осетинские пироги 800г(2х400г: Пирог с  мясом/Пирог с сыром)Набор №3 ОСЕТИНСКИЕ ПИРОГИ (ИП Рамонова)",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 439,
+    "ItemName": "Паннакота крем-брюле 180г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 440,
+    "ItemName": "Салат Винегрет 200г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 441,
+    "ItemName": "Саварен тыкв. - апельсин. 0,8 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 442,
+    "ItemName": "Саварен тыкв. - апельсин. 0,45 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 443,
+    "ItemName": "Саварен тыкв. - апельсин. уп. 0,185 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 444,
+    "ItemName": "Саварен яблочн. с корицей 0,45 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 445,
+    "ItemName": "Саварен яблочн. с корицей ст. 0,12 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 446,
+    "ItemName": "Саварен маково - лимонный 0,8 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 447,
+    "ItemName": "Саварен маково - лимонный 0,45 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 448,
+    "ItemName": "Саварен маково - лимонный 0,06 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 449,
+    "ItemName": "Саварен манго - маракуйя 0,8 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 450,
+    "ItemName": "Саварен манго - маракуйя уп. 0,45 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 451,
+    "ItemName": "Саварен манго - маракуйя 0,055 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 452,
+    "ItemName": "Саварен черн. смор. 0,45 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 453,
+    "ItemName": "Мадлен черн. смор. уп. 0,15 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 454,
+    "ItemName": "Мадлен черн. смор. 0,06 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 455,
+    "ItemName": "Саварен с черн. смор. 0,8 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 456,
+    "ItemName": "Мадлен с черн. смор. 0,35 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 457,
+    "ItemName": "Мадлен с черн. смор. ст. 0,12 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 458,
+    "ItemName": "Саварен тыкв. - апельсин. 0,06 НОВЫЙ АССОРТИМЕНТ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 459,
+    "ItemName": "Альтернативное молоко Кокос 1 л НАПИТКИ Холодная полка",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 460,
+    "ItemName": "Печенье лимонное 120г Ф.ПЕЧЕНЬЯ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 461,
+    "ItemName": "Детский 1,3 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 462,
+    "ItemName": "Детство 0,9 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 463,
+    "ItemName": "Медовое Суфле Горная Лаванда (медолюбов) 250мл. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 731
+  },
+  {
+    "index": 464,
+    "ItemName": "Мед Барбарисовый (медолюбов) 250мл. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 465,
+    "ItemName": "Заливное из говяжьего языка 300г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 466,
+    "ItemName": "Сливки 10% 1 л ПРОЧИЕ МОЛОЧНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 467,
+    "ItemName": "Розовое озеро 0,46 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 468,
+    "ItemName": "Мусс тропический 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 469,
+    "ItemName": "Йогурт Малина 2,5% 300 г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 470,
+    "ItemName": "Йогурт Персик-маракуйя 2,5% 300 г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 471,
+    "ItemName": "Масса творож. сахар изюм 16,5% 300г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 472,
+    "ItemName": "Паштет с печенью индейки и грушей 160гр. КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 473,
+    "ItemName": "Трубочка вафельная с молочным кремом 30г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 474,
+    "ItemName": "Колбаса Импертино с/к вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 475,
+    "ItemName": "Печенье Туиль с апельсином и морковью 160г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 476,
+    "ItemName": "Салат Оливье с колбасой 200г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 477,
+    "ItemName": "Запеканка творожная традиционная вес БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 478,
+    "ItemName": "Напиток Добрый Кола 1 л Напитки",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 479,
+    "ItemName": "Напиток Добрый Кола 0,5 л Напитки",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 480,
+    "ItemName": "Батончик Туррон манго миндаль 100г ВОСТОЧНЫЕ СЛАДОСТИ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 481,
+    "ItemName": "Батончик Туррон с миндалем 50г ВОСТОЧНЫЕ СЛАДОСТИ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 482,
+    "ItemName": "Батончик Туррон мягкий с миндалем 100г ВОСТОЧНЫЕ СЛАДОСТИ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 483,
+    "ItemName": "Саварен с апельсин. нач. 0,45 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 484,
+    "ItemName": "Свеча для торта юбилейная10 синяя Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 485,
+    "ItemName": "Свечи для торта с подставкой набор 12шт. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 486,
+    "ItemName": "Карамель леденцовая фигурная на палочке Петушок Смельчак 50г ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 487,
+    "ItemName": "Шоколадное Драже \"Перепелиные яйца\" 100 г НАБОРЫ КОНФЕТ",
+    "Description": "",
+    "LifeTime": 548
+  },
+  {
+    "index": 488,
+    "ItemName": "Ватрушка куриная с грибным жульеном и фарфале 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 489,
+    "ItemName": "Молоко пастер. ЦЕЛЬНОЕ 3,4%-4,2% пэт900мл БЗМЖ МОЛОКО",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 490,
+    "ItemName": "Пряник имб. глаз. Панда 40г ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 491,
+    "ItemName": "Пряник имб. глаз. Машинка 40г ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 492,
+    "ItemName": "Ассорти 4 вкуса 0,88 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 493,
+    "ItemName": "Лимончино 0,47 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 494,
+    "ItemName": "Омлет с ветчиной и сыром 140г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 495,
+    "ItemName": "Омлет с курицей и сыром 140г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 496,
+    "ItemName": "Митболы с томатным соусом и спагетти 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 497,
+    "ItemName": "Кефир 1 % пэт 900г БЗМЖ КЕФИР",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 498,
+    "ItemName": "Кекс (не эклер) с апельсин. нач. 0,195 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 499,
+    "ItemName": "Кекс (не эклер) черн. смор. 0,195 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 500,
+    "ItemName": "Кекс (не эклер) маково - лимонный 0,195 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 501,
+    "ItemName": "Творог из топлен. молока с вишней и семенами чиа 16,5% 300г БЗМЖ ТВОРОГ/ ТВОРОЖЕНЫЙ КРЕМ",
+    "Description": "",
+    "LifeTime": 25
+  },
+  {
+    "index": 502,
+    "ItemName": "Снежок 2,5 300г БЗМЖ ПРОЧИЕ МОЛОЧНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 503,
+    "ItemName": "Кефир 3,2% пэт 900г БЗМЖ КЕФИР",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 504,
+    "ItemName": "Московский в шоколаде 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 505,
+    "ItemName": "Молоко пастер. 3,2 % пэт 900г БМЖ МОЛОКО",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 506,
+    "ItemName": "Бифилайф 3,2 % 300 г БЗМЖ МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 507,
+    "ItemName": "Салат Витаминный с лимонной заправкой 150г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 508,
+    "ItemName": "Вода Боржоми 0,5 стекло НАПИТКИ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 509,
+    "ItemName": "Яйцо шок. с игр. СИНИЙ ТРАКТОР ШОКИ-ТОКИ двойной шоколад 20г ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 510,
+    "ItemName": "Напиток Сенежская со вкусом персика 0,5 л НАПИТКИ БУТИЛИРОВАННЫЕ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 511,
+    "ItemName": "Напиток Сенежская с яблочным соком 0,5 л НАПИТКИ БУТИЛИРОВАННЫЕ",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 512,
+    "ItemName": "Напиток Сенежская лимон-мята негазированный 0,44 л НАПИТКИ БУТИЛИРОВАННЫЕ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 513,
+    "ItemName": "Хумус рецепт из Иерусалима 200г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 514,
+    "ItemName": "Хумус рецепт из Назарета (с кедровым орехом) 200г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 515,
+    "ItemName": "Кофе раст.сублимир. Лебо Голд 75г КОФЕ ШТУЧНЫЙ",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 516,
+    "ItemName": "Печенье Старорусское 300г КОНДИТЕРСКАЯ ВЫПЕЧКА",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 517,
+    "ItemName": "Сухарики Добрынинские с изюмом 0,32 КУЛИЧИ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 518,
+    "ItemName": "Карамель с игрушкой HAPPY BOX Подводный мир пакет 18г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 519,
+    "ItemName": "Томатный сок с солью, с мякотью VI NATURE 0,75 л Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 520,
+    "ItemName": "Батончик Кит Кат из мол. шоколада с хрустящей вафлей 40г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 540
+  },
+  {
+    "index": 521,
+    "ItemName": "Рио-Кокосо 0,4 ВКУСВИЛЛ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 522,
+    "ItemName": "Слоеный с вишн. нач. 0,6 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 523,
+    "ItemName": "Зефир бело-розовый ароматизированный 315г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 524,
+    "ItemName": "Зефир с ароматом ванили 315г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 525,
+    "ItemName": "Крекеры с оливковым маслом о розмарином Delser 200г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 487
+  },
+  {
+    "index": 526,
+    "ItemName": "Крекеры Delser 250г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 527,
+    "ItemName": "Печенье Фитнес десерт \"Банановый брауни\" 35г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 528,
+    "ItemName": "Печенье неглаз.Малиновый чизкейк FitnesShock DESSERT 35г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 529,
+    "ItemName": "Конфеты Шоколад белый с фундуком Шоколадные пельмени 100г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 530,
+    "ItemName": "Крекер Здрава Французский Прованс 200г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 531,
+    "ItemName": "Чай зелёный Рич манго 0,5 л Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 532,
+    "ItemName": "Чай Рич лимон 0,5 л Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 533,
+    "ItemName": "Корзин.с кремом и завар.п/ф в уп. 0.15 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 534,
+    "ItemName": "Корзиночка с ягодами в уп. 0.36 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 535,
+    "ItemName": "Корзиночка  с ягодами 0.090 ПИРОЖНЫЕ(штучные)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 536,
+    "ItemName": "Киевский 0,35 (картон) ТОРТЫ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 537,
+    "ItemName": "Детство 1,3 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 538,
+    "ItemName": "Школьный 0,42 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 539,
+    "ItemName": "Сок IL Primo Апельсин восстановленный 200 мл, ст. НАПИТКИ",
+    "Description": "",
+    "LifeTime": 300
+  },
+  {
+    "index": 540,
+    "ItemName": "Пирожное Мусс яблочный 0,2 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 541,
+    "ItemName": "Москва 0,5 (картон) ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 542,
+    "ItemName": "Красный бархат с желе из ягод  0,110 ПИРОЖНЫЕ(штучные)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 543,
+    "ItemName": "Салат Оливье  с курицей 200г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 544,
+    "ItemName": "Кекс французский с лимоном и маком 0,45 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 545,
+    "ItemName": "Кекс французский с лимоном и маком 0,5 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 546,
+    "ItemName": "Кекс французский с апельсин. нач. 0,45 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 547,
+    "ItemName": "Кекс французский с апельсин. нач. 0,5 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 548,
+    "ItemName": "Кекс французский черн. смор. 0,45 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 549,
+    "ItemName": "Кекс французский черн. смор. 0,5 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 550,
+    "ItemName": "Мини-торт Москва 0,106 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 551,
+    "ItemName": "Кекс французский с апельсин. нач. 0,4 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 552,
+    "ItemName": "Кекс французский с лимоном и маком 0,4 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 553,
+    "ItemName": "Корзин.с белк. кремом в уп. 0,15 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 554,
+    "ItemName": "Молоко питьевое пастер. 2,5% 900 мл БЗМЖ МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 555,
+    "ItemName": "Пакетированный чай на чайник Эрл Чарльз Грей 15 пак Чай",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 556,
+    "ItemName": "Кекс французский черн. смор. 0,4 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 557,
+    "ItemName": "Добрынинская птичка с черносмор. джемом в уп. 0,21 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 558,
+    "ItemName": "Добрынинская птичка в уп. 0,18 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 559,
+    "ItemName": "Салат цезарь с курицей 200гр. КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 560,
+    "ItemName": "Восторг 0,9 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 561,
+    "ItemName": "Пражский 0,9 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 562,
+    "ItemName": "Горячий шоколад 0,9 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 563,
+    "ItemName": "Ряженка 4,0% 300 г БЗМЖ МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 564,
+    "ItemName": "Колбаса Королевская  охота в/к вес МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 565,
+    "ItemName": "Изд. конд. глаз. Брауни горячий шоколад SHOCK 50г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 566,
+    "ItemName": "Изд. конд. глаз. Брауни кокосовый пирог SHOCK 50г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 567,
+    "ItemName": "Сэндвич с курицей 180г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 568,
+    "ItemName": "Сэндвич с ветчиной и сыром 200г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 569,
+    "ItemName": "Салат Оливье с говядиной 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 570,
+    "ItemName": "Салат Сельдь под шубой 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 571,
+    "ItemName": "Салат Мимоза 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 572,
+    "ItemName": "Халва Дружба с арахисом 220г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 573,
+    "ItemName": "Белые ночи 0,9 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 574,
+    "ItemName": "Сэндвич-ролл Цезарь 170г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 575,
+    "ItemName": "Тирамису Добрынинский Де-Люкс 1,0 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 576,
+    "ItemName": "Домашний медовик 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 577,
+    "ItemName": "Батончик протеиновый с соленой карамелью SOJ 50г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 578,
+    "ItemName": "Слоен.труб.с белк.кремом в уп. 0,105 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 579,
+    "ItemName": "Миндальный с сол. карам. Добрынинский Де-Люкс 0,5 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 580,
+    "ItemName": "Слоен.труб.с белк.кр. и клюкв. дж. в уп. 0,105 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 581,
+    "ItemName": "Слоен.труб.с белк.кр. и ч/смор. дж. в уп. 0,105 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 582,
+    "ItemName": "Грецкий орех с сол. карам. Добрынинский Де-Люкс 0,53 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 583,
+    "ItemName": "Слоен.труб.с белк.кр. и вар. сгущ. в уп. 0,105 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 584,
+    "ItemName": "Творог 5% с наполнителем клубника 180г БЗМЖ Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 585,
+    "ItemName": "Щербет с арахисом 75г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 586,
+    "ItemName": "Запеканка творожная с черникой 250г БЗМЖ КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 587,
+    "ItemName": "Запеканка творожная с грушей 250г БЗМЖ КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 588,
+    "ItemName": "Котлеты из индейки с гречкой с грибным соусом 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 589,
+    "ItemName": "Десерт с подарком Чебурашка KIDS BOX 20г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 590,
+    "ItemName": "Набор Шоколадное сердце BIND BOMB 80г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 591,
+    "ItemName": "Драже \"Зефир в молочном шоколаде\" 100г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 592,
+    "ItemName": "Шоколадное драже \"Марципан в шоколаде\"микс шоколад 100г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 593,
+    "ItemName": "Шоколадное драже \"Апельсиновая цедра в темном шоколаде\" 100г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 594,
+    "ItemName": "Шоколадное драже \"Ассорти микс шоколад\" 100г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 595,
+    "ItemName": "Шоколадное драже \"Фундук в шоколаде\" 100г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 548
+  },
+  {
+    "index": 596,
+    "ItemName": "Шоколадное драже \"Миндаль в шоколаде\" 100г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 548
+  },
+  {
+    "index": 597,
+    "ItemName": "Набор шоколадных конфет \"Красная книга любви\" 90г НАБОРЫ КОНФЕТ",
+    "Description": "",
+    "LifeTime": 540
+  },
+  {
+    "index": 598,
+    "ItemName": "Набор шоколадных конфет \"Сердце\" 225г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 599,
+    "ItemName": "Драже изюм в шок.глаз. 200г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 600,
+    "ItemName": "Драже грильяж в шок.глаз. 200г КОНДИТЕРСКИЕ ИЗДЕЛИЯ  И ПРОЧЕЕ",
+    "Description": "",
+    "LifeTime": 540
+  },
+  {
+    "index": 601,
+    "ItemName": "Юбилейный с грецким орехом с сол. карам. Де-Люкс 0,9 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 602,
+    "ItemName": "Говядина томленая с картофелем и прованскими травами 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 603,
+    "ItemName": "Мусс Три вкуса Добрынинский Де-Люкс 0,92 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 604,
+    "ItemName": "Напиток Lotte Милкис оригинал 250 мл Напитки Электрозаводская",
+    "Description": "",
+    "LifeTime": 548
+  },
+  {
+    "index": 605,
+    "ItemName": "Нагутская- 4 мин.природ. лечебн. стол. вода 0,5 л. стекло Напитки Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 606,
+    "ItemName": "Пирог Добрынинский с курицей и грибами 0,2 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 607,
+    "ItemName": "Пирог Добрынинский с рыбной нач. 0,2 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 608,
+    "ItemName": "Пирожное Ленинградское в уп. 0,09 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 609,
+    "ItemName": "Сметанный с вишней и орехами 0,65 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 610,
+    "ItemName": "Картошка Хэллоуин в уп. 0,24 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 611,
+    "ItemName": "Пирожки Домашние с капустой 0,26 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 612,
+    "ItemName": "Шоколад темный с пергой и цветочной пыльцой 100г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 613,
+    "ItemName": "Шоколад молочный с пергой и цветочной пыльцой 100г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 614,
+    "ItemName": "Мармелад ассорти ягодный жимолость, брусника, клюква 110г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 1825
+  },
+  {
+    "index": 615,
+    "ItemName": "Мармелад Таежное ассорт сосновый, сосновый с шишкой, с ядром кедр. ореха, с клюквой 110г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 1825
+  },
+  {
+    "index": 616,
+    "ItemName": "Бифилайф 3,2% БЗМЖ 300г МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 617,
+    "ItemName": "Икра красная Кеты ст. банка евро 230г ИКРА",
+    "Description": "",
+    "LifeTime": 183
+  },
+  {
+    "index": 618,
+    "ItemName": "Профитроли сливочные в уп. 0,14 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 619,
+    "ItemName": "Профитроли с варен. сгущ. в уп. 0,14 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 620,
+    "ItemName": "Мармелад жевательный Very Jelly Бананчики 190 г Кондит. изделия, конфеты",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 621,
+    "ItemName": "Колбаса Сервелат в/с в/к вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 622,
+    "ItemName": "Грецкий орех с сол. карам. Добрынинский Де-Люкс (голубой) 1,0 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 623,
+    "ItemName": "Грецкий орех с сол. карам. Добрынинский Де-Люкс (красный) 1,0 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 624,
+    "ItemName": "Грецкий орех с сол. карам. Добрынинский Де-Люкс (зеленый) 1,0 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 625,
+    "ItemName": "Эко-Лакомка Добрынинская новогодняя Де-Люкс 1,25 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 626,
+    "ItemName": "Сок IL PRIMO яблочный из зеленых яблок 0,2л стекло Сок",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 627,
+    "ItemName": "Нектар IL PRIMO вишневый 0,2л стекло Сок",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 628,
+    "ItemName": "Нектар IL PRIMO манговый с мякотью 0,2л стекло Сок",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 629,
+    "ItemName": "Сироп Каштан Барлайн 1л СИРОПЫ для кофе",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 630,
+    "ItemName": "Тарталетка Лимонная 0,2 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 631,
+    "ItemName": "Пирожки Домашние с капустой 0,325 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 632,
+    "ItemName": "Колбаски с картофельным пюре 300 г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 633,
+    "ItemName": "Сметана 20% 300г  БЗМЖ МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 20
+  },
+  {
+    "index": 634,
+    "ItemName": "Сметана 15% 300г  БЗМЖ МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 635,
+    "ItemName": "Беляш Омский 0,4 кг Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 636,
+    "ItemName": "Картошка Новогодняя уп. 0,24 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 637,
+    "ItemName": "Символ года 0,9 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 638,
+    "ItemName": "Филе индейки в/к вес МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 639,
+    "ItemName": "Блинчики с творогом 210г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 640,
+    "ItemName": "Блинчики с курицей 210г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 641,
+    "ItemName": "Блинчики с мясом 210г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 642,
+    "ItemName": "Колбаса \"Охотничьи колбаски\" ГОСТ п/к вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 643,
+    "ItemName": "Икра красная Горбуша Охотоморе ст. банка евро 230г ИКРА",
+    "Description": "",
+    "LifeTime": 183
+  },
+  {
+    "index": 644,
+    "ItemName": "Кекс-Кулич \"Домик\" 0,1 КЕКСЫ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 645,
+    "ItemName": "Баварские колбаски с макаронами и соусом 300 г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 646,
+    "ItemName": "Щи из свежей капусты с грибами 300г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 647,
+    "ItemName": "Хот-дог Датский 135г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 648,
+    "ItemName": "Чернослив без косточки Amidis, 113г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 182
+  },
+  {
+    "index": 649,
+    "ItemName": "Кешью \"Пакет орехов\" 100г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 650,
+    "ItemName": "Фундук очищенный  \"Пакет орехов\" 100г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 651,
+    "ItemName": "Миндаль очищенный \"Пакет орехов\" 100г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 652,
+    "ItemName": "Грецкий орех очищенный \"Пакет орехов\" 80г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 653,
+    "ItemName": "Фисташки жареные с солью \"Ароматные орехи\" 113г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 274
+  },
+  {
+    "index": 654,
+    "ItemName": "Беляш Куряш 400г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 655,
+    "ItemName": "Медовое Суфле с Облепихой (медолюбов) 250мл Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 656,
+    "ItemName": "Картошка медовая в уп. 0,24 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 657,
+    "ItemName": "Пирожное \"Медовик\" 0,18 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 658,
+    "ItemName": "Овсяная сгущенка  SAMUI 200 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 1095
+  },
+  {
+    "index": 659,
+    "ItemName": "Дет.игруш Фигурка + карамель в кор. HAPPY BOX ЧЕЛОВЕК ПАУК 18г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 660,
+    "ItemName": "Вареники с картофелем и грибами 450гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 661,
+    "ItemName": "Печенье миндальное 150г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 662,
+    "ItemName": "Кокосовая сгущенка \"SAMUI\" 200г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 1095
+  },
+  {
+    "index": 663,
+    "ItemName": "Вафли Особые (мягкие), 0,12 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 664,
+    "ItemName": "Вафли Особые (мягкие) с какао, 0,12 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 665,
+    "ItemName": "Сыр Моцарелла палочки Unagrande 45% 120г БЗМЖ МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 666,
+    "ItemName": "Шоколад BUSHERON мол.с фисташк. 100г мет.кор. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 667,
+    "ItemName": "Сыр творожный Pretto 65%140г БЗМЖ МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 668,
+    "ItemName": "Филе индейки в/к вес нарезка КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 669,
+    "ItemName": "Шоколадное драже Миндаль в шоколаде цвет радуга 200г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 670,
+    "ItemName": "Торт печеночный 300г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 671,
+    "ItemName": "Новогодний блюз 2,0 ФИГУРНЫЕ ТОРТЫ- МАСТИКА",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 672,
+    "ItemName": "Печенье миндальное с французским шоколадом 150г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 673,
+    "ItemName": "Карпаччо из курицы с/к вес МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 674,
+    "ItemName": "Сэндвич-ролл Фьюжен 200г МЕЛКОШТУЧКА",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 675,
+    "ItemName": "Вафли Голландские с молочной карамелью 150г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 999
+  },
+  {
+    "index": 676,
+    "ItemName": "Десерт Молочное лакомство с шок. бисквитом в мол. шоколаде 50г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 677,
+    "ItemName": "Печенье овсяное 150г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 678,
+    "ItemName": "Французские трюфели со вкусом чили 100гр \"BARON\" Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 449
+  },
+  {
+    "index": 679,
+    "ItemName": "Нуга с грецким орехом в подарочной упаковке 200г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 680,
+    "ItemName": "Конфеты SORINI \"Breakfast at Tiffany's\" из молочного шоколада с начинкой пралине ж/б 188гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 681,
+    "ItemName": "Батончик Отломи 45г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 682,
+    "ItemName": "Квас Хлебный Лидский 1,5 л Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 683,
+    "ItemName": "Пельмени с говядиной 700г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 684,
+    "ItemName": "Десерт панакота с голубикой и маком 140г БЗМЖ МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 685,
+    "ItemName": "Десерт панакота с манго 140г БЗМЖ МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 686,
+    "ItemName": "Десерт панакота с клубникой 140г БЗМЖ МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 687,
+    "ItemName": "Фламиш с ветчиной и сыром 0,11 Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 688,
+    "ItemName": "Галстук с ванильным кремом и шоколадом 120г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 689,
+    "ItemName": "Пирожки Домашние с зеленым луком и яйцом 70г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 690,
+    "ItemName": "Пирожки Домашние с яблоком 70г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 691,
+    "ItemName": "Сыр Красногорский полутв. 150г БЗМЖ Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 692,
+    "ItemName": "Сыр Губернаторский полутв. 150г БЗМЖ Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 693,
+    "ItemName": "Сыр Фестивальный твердый 150г БЗМЖ Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 694,
+    "ItemName": "Десерт панакота с вишней и маком 140г БЗМЖ МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 695,
+    "ItemName": "Пирожное ЧИЗКЕЙК 40Г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 696,
+    "ItemName": "Сыр Истринский твердый 150г БЗМЖ Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 697,
+    "ItemName": "Батончик ореховый с ирисо-сливочным вкусом 40г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 698,
+    "ItemName": "Масло Традиционное сладко-слив.несол. 82,5% 180г ГОСТ БЗМЖ Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 699,
+    "ItemName": "Масло Крестьянское сладко-слив. несол. 72,5%  180г ГОСТ БЗМЖ Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 700,
+    "ItemName": "Вареники с творогом 450гр БЗМЖ Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 701,
+    "ItemName": "Масляная рыба х/к 200г кусок Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 702,
+    "ItemName": "Пирожок с мясом(говядина) и рисом 80г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 703,
+    "ItemName": "Элеш с курицейна пресном тесте 120г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 704,
+    "ItemName": "Пирожки Домашние с картошкой 70г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 705,
+    "ItemName": "Пирожки Домашние с курицей 70г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 706,
+    "ItemName": "Морс клюквенный VI NATURE ПЭТ 0,33 Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 707,
+    "ItemName": "Морс Клубника, Базилик VI NATURE ПЭТ 0,33 Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 708,
+    "ItemName": "Морс из Лесных ягод VI NATURE ПЭТ 0,33 Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 273
+  },
+  {
+    "index": 709,
+    "ItemName": "Морс Брусничный VI NATURE ПЭТ 0,33 Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 710,
+    "ItemName": "Морс Малиновый с клюквой VI NATURE ПЭТ 0,33 Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 273
+  },
+  {
+    "index": 711,
+    "ItemName": "Кекс-Кулич к Пасхе 0,36 КУЛИЧИ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 712,
+    "ItemName": "Кекс-Кулич Праздничный 0,36 КУЛИЧИ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 713,
+    "ItemName": "Шоколад молочный \"Шоколад-открытка\" Ромашки 100г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 714,
+    "ItemName": "Шоколад молочный \"Шоколад-открытка\" (Маки) 100г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 715,
+    "ItemName": "Шоколад молочный \"Шоколад-открытка\" (Анютины глазки) 100г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 716,
+    "ItemName": "Пирожки Домашние с капустой и томатом 70г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 717,
+    "ItemName": "Мармелад жевательный Very Jelly Червячки 160 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 718,
+    "ItemName": "Печенье орешки с варёной сгущёнкой в стакане 150г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 719,
+    "ItemName": "Праздник 0,8 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 720,
+    "ItemName": "Семга (кусок в/у)  х/к 200г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 721,
+    "ItemName": "Форель (ломтики в/у) с/с 300г МОРЕПРОДУКТЫ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 722,
+    "ItemName": "Молочный шоколад с фундуком Retro Ubertad 80г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 12
+  },
+  {
+    "index": 723,
+    "ItemName": "Темный шоколад с хрустящим какао Retro Ubertad 80г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 12
+  },
+  {
+    "index": 724,
+    "ItemName": "Чай зеленый китайский крупнолистовой с жасмином 100г Чай",
+    "Description": "",
+    "LifeTime": 274
+  },
+  {
+    "index": 725,
+    "ItemName": "Чай китайский улун Те Гуань Инь 100г Чай",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 726,
+    "ItemName": "Чай чёрный цейлонский крупнолистовой 100г ЧАЙ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 727,
+    "ItemName": "Сыр Король Эдуард полутв. 50%  200г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 728,
+    "ItemName": "Сыр Легкий полутв. 30% 200г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 729,
+    "ItemName": "Сыр Российский полутв. 50% 200г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 730,
+    "ItemName": "Сыр Тильзитер полутв. 50% 200г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 731,
+    "ItemName": "Сыр Эдам полутв. 50% 200г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 732,
+    "ItemName": "Молоко  3,2%  450г БЗМЖ МОЛОКО",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 733,
+    "ItemName": "Медовое Суфле с Маракуйей и Манго (медолюбов) 250мл. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 731
+  },
+  {
+    "index": 734,
+    "ItemName": "Медовое Суфле с Киви и Клубникой (медолюбов) 250мл. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 731
+  },
+  {
+    "index": 735,
+    "ItemName": "Чай Книга Мечты сбываются GET&JOY 75г ЧАЙ",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 736,
+    "ItemName": "Чай Книга Райский сад GET&JOY 75г ЧАЙ",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 737,
+    "ItemName": "Чай Шкатулка Морской бриз GET&JOY 50 гр ЧАЙ",
+    "Description": "",
+    "LifeTime": 729
+  },
+  {
+    "index": 738,
+    "ItemName": "Чай Шкатулка Уютный дворик GET&JOY 50 гр ЧАЙ",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 739,
+    "ItemName": "Сыр Бри 125г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 740,
+    "ItemName": "Сыр Камамбер с орехами с виноград. соусом 145г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 741,
+    "ItemName": "Сыр Камамбер 125г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 742,
+    "ItemName": "Клубничное облако Добрынинский Де-Люкс 1,1 ПРОДУКЦИЯ ДЕ-ЛЮКС",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 743,
+    "ItemName": "Свечи для торта «Серпантин» 6 шт., коктейльные, золото Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 744,
+    "ItemName": "Свечи в торт «Спираль», 10 шт., средние, 5 см, синий металлик Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 745,
+    "ItemName": "Свечи в торт коктейльные «Шайн», 6 шт., 10 см, золотой металлик Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 746,
+    "ItemName": "Тунец х/к филе-кусок вес МОРЕПРОДУКТЫ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 747,
+    "ItemName": "Шоколадное яйцо с игрушкой MEGA SECRET PUSHEEN 20г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 748,
+    "ItemName": "Колбаса Московская в/к  в/у  270г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 749,
+    "ItemName": "Пастилки с маршмеллоу KIDS Яблоко 55г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 750,
+    "ItemName": "Пастилки с маршмеллоу KIDS Клубника+Банан 55г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 751,
+    "ItemName": "Молоко вареное сгущ. с сахаром Волоконовское 315г БЗМЖ Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 752,
+    "ItemName": "Семга (ломтики в/у) с/с 300г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 753,
+    "ItemName": "Пирожное Чизкейк с малиновым наполнит. 40г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 754,
+    "ItemName": "Конфеты Помадка сливочная с цукатом 250г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 755,
+    "ItemName": "Сыр творожный с томатами Pretto 65% 140г БЗМЖ МОЛОЧКА/КОЛБАСЫ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 756,
+    "ItemName": "Датское с корицей 175 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 757,
+    "ItemName": "Колбаса Докторская вареная серв.нарезка 190г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 758,
+    "ItemName": "Ветчина для завтрака серв.нарезка 190г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 759,
+    "ItemName": "(Х5) Грецкий орех с сол. карам. 0,53 ПРОДУКЦИЯ ДЛЯ Х5",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 760,
+    "ItemName": "Кулич Панеттоне 0,44 КУЛИЧИ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 761,
+    "ItemName": "Сыр рассольный Фетакса «Хохланд» 45% 250г СЫРЫ",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 762,
+    "ItemName": "Фисташки с солью \"Пакет орехов\" 100г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 274
+  },
+  {
+    "index": 763,
+    "ItemName": "Вафли с какао Классические 165г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 764,
+    "ItemName": "Вафли с молоком Классические 165г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 999
+  },
+  {
+    "index": 765,
+    "ItemName": "Трюфели в обсыпке манго Libertad 120 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 766,
+    "ItemName": "Трюфели в малиновой обсыпке Libertad 120 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 767,
+    "ItemName": "Мини пирожное \"Ассорти\" (мед.-шок.) 0,345 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 768,
+    "ItemName": "Беляши с мясом 300г (3шт) Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 769,
+    "ItemName": "Салат Разгрузочный 120 г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 770,
+    "ItemName": "Шоколадное драже \"Миндаль в шоколаде\" 125гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 771,
+    "ItemName": "Шоколадное драже \"Фундук в шоколаде\" 125гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 772,
+    "ItemName": "Батончик неглаз. Марципановый с апельсином 40гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 240
+  },
+  {
+    "index": 773,
+    "ItemName": "Батончик неглаз. Марципановый с мятой 40гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 240
+  },
+  {
+    "index": 774,
+    "ItemName": "Суфле Original Pro молочное с ванилью в мол.шоколаде 30 г КОНФЕТЫ ВЕСОВЫЕ",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 775,
+    "ItemName": "Сыр Сулугуни 45% вес БЗМЖ Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 776,
+    "ItemName": "Конфеты Батончики Рот Фронт 250г КОНФЕТЫ ВЕСОВЫЕ",
+    "Description": "",
+    "LifeTime": 300
+  },
+  {
+    "index": 777,
+    "ItemName": "Чай чёрный Эрл Грей Классик 50 г Чай",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 778,
+    "ItemName": "Чай чёрный Айва с персиком 50 г Чай",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 779,
+    "ItemName": "Добрынинская птичка 0,45 (пластик) ТОРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 780,
+    "ItemName": "Мармелад жевательный Very Jelly Косточка 160 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 781,
+    "ItemName": "Конфеты марципановые с кусочками клюквы и водкой 98 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 420
+  },
+  {
+    "index": 782,
+    "ItemName": "Мармелад жел.форм. Цитрусовые дольки 250г МАРМЕЛАД ФИКС ВЕС",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 783,
+    "ItemName": "Мармелад жевательный Very Jelly Мишки 160 г МАРМЕЛАД ФИКС ВЕС",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 784,
+    "ItemName": "Кофе в зернах Бразилия Серрадо 100% Арабика 250г КОФЕ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 785,
+    "ItemName": "Печенье Мария 300г Ф.ПЕЧЕНЬЯ",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 786,
+    "ItemName": "Печенье Лимонное 300г Ф.ПЕЧЕНЬЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 787,
+    "ItemName": "Печенье Венское со вкусом клюквы 300г Ф.ПЕЧЕНЬЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 788,
+    "ItemName": "Стакан Bubble cup шейкер матовый ПП 1020 D-90мм 375мл ВЗЛП Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 300
+  },
+  {
+    "index": 789,
+    "ItemName": "Биточки под томатным соусом с картофельным пюре 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 790,
+    "ItemName": "Мармелад жевательный Very Jelly Мишки 160 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 791,
+    "ItemName": "Курица по-арабски с овощами 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 792,
+    "ItemName": "Люля куриные с картофелем 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 793,
+    "ItemName": "Салат с куриным филе и черносливом 160г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 794,
+    "ItemName": "Салат свекольный с грецким орехом 200 г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 795,
+    "ItemName": "Грудка куриная с пенне и грибами 230г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 796,
+    "ItemName": "Котлета куриная с картофельным пюре 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 797,
+    "ItemName": "Стрипсы из цыпленка с картофельным пюре 225 г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 798,
+    "ItemName": "Бефстроганов из курицы с картофельным пюре 280г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 31
+  },
+  {
+    "index": 799,
+    "ItemName": "Печенье Мраморное Черничное 150г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 800,
+    "ItemName": "Пирожки Домашние с мясом 70г (4шт) Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 801,
+    "ItemName": "Биточки по-белорусски с гречкой и овощами 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 31
+  },
+  {
+    "index": 802,
+    "ItemName": "Запеканка с апельсиновыми цукатами  250г БЗМЖ КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 803,
+    "ItemName": "Бекон Парижский c/к в/к нарезка вес Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 804,
+    "ItemName": "Корзин.праздничная в уп. 0,228 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 805,
+    "ItemName": "Зефир со вкусом малины глазированный 185 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 806,
+    "ItemName": "Зефир со вкусом черной смородины глазированный 185 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 807,
+    "ItemName": "Мармелад Клубника со сливками без добавления сахара 180 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 808,
+    "ItemName": "Лазанья Болоньезе 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 809,
+    "ItemName": "Язык свиной в шпике Деликатесный вес Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 810,
+    "ItemName": "Форель  филе-ломтики с/с  в/у 250г МОРЕПРОДУКТЫ",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 811,
+    "ItemName": "Форель филе-кусок с/с в/у 200г МОРЕПРОДУКТЫ",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 812,
+    "ItemName": "Горбуша/скумбрия ассорти косичка х/к 200г МОРЕПРОДУКТЫ",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 813,
+    "ItemName": "Шоколад Аленка 75 г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 814,
+    "ItemName": "Напиток Сенежская кактус-алоэ негазированный 0,44 л Вода",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 815,
+    "ItemName": "Шоколад тёмный с грушей и миндалём Бабаевский 70г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 816,
+    "ItemName": "Удон Лапша с курицей и Терияки 300гр КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 817,
+    "ItemName": "Сэндвич ржаной с индейкой и соусом Ранч 200г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 818,
+    "ItemName": "Булочка сладкая с начинкой с молочным вкусом ТМ DATE 70г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 819,
+    "ItemName": "Валенец светлый 280г ХЛЕБ (пекарня)",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 820,
+    "ItemName": "Запеканка творожная на миндальной муке 150г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 821,
+    "ItemName": "Зефир Ягодка Смородина 100гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 822,
+    "ItemName": "Мармелад Апельсин в горьком шоколаде с мятой 150 гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 823,
+    "ItemName": "Хлеб Хуторской 450г ХЛЕБ (пекарня)",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 824,
+    "ItemName": "Шоколад Алёнка с арахисом 70г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 825,
+    "ItemName": "Манты Домашние с мясом и картофелем 215г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 826,
+    "ItemName": "Мармелад Банан-Клубника в молочном шоколаде 150 гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 827,
+    "ItemName": "Сэндвич с сальсой, куриным филе и овощами 200г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 828,
+    "ItemName": "Грудка Пикантная в/к (куриная) вес Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 20
+  },
+  {
+    "index": 829,
+    "ItemName": "Печенье с изюмом фас.180г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 830,
+    "ItemName": "Сыр творожный Рбили с хреном и чесноком 60% 130г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 831,
+    "ItemName": "Цыпленок Гунбао с фунчозой и овощами 250г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 832,
+    "ItemName": "Мармелад Сливочная дыня без добавл. сахара 180гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 833,
+    "ItemName": "Печенье Орешки со сгущенкой 155 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 834,
+    "ItemName": "Печенье Орешки шоколадные со сгущенкой 155 г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 835,
+    "ItemName": "Свеча для торта «Цифра 1», 7 см Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 836,
+    "ItemName": "Свеча для торта «Цифра 2», 7 см Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 837,
+    "ItemName": "Свеча для торта «Цифра 4», 7 см Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 838,
+    "ItemName": "Зефир Ягодка Вишня 100гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 839,
+    "ItemName": "Вареники на пару с картошкой и грибным соусом 250г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 840,
+    "ItemName": "Печенье Кокосовое воздушное 160г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 841,
+    "ItemName": "Напиток Coca-Cola (Кока Кола) 0.33 л ж/б Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 842,
+    "ItemName": "Манты Домашние с мясом и картофелем 240г Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 843,
+    "ItemName": "Ригатони с цыпленком в сливочном соусе 250 гр 3.ГОТОВАЯ ПРОДУКЦИЯ",
+    "Description": "",
+    "LifeTime": 72
+  },
+  {
+    "index": 844,
+    "ItemName": "Вечерняя Прага 0,9кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 845,
+    "ItemName": "Рулет с клубничным джемом 0,5 РУЛЕТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 846,
+    "ItemName": "Рулет с абрикосовым джемом 0,5 РУЛЕТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 847,
+    "ItemName": "Черный лес в упак.(5шт) 0,55 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 848,
+    "ItemName": "Мусс два шоколада 2,7 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 849,
+    "ItemName": "Рулет Пражский 0,5 РУЛЕТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 850,
+    "ItemName": "Детский \"Карусель\" 1,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 851,
+    "ItemName": "Графские развалины 0,7 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 852,
+    "ItemName": "Пирожное  \"Поцелуйчики\" в упак.0,18 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 853,
+    "ItemName": "Весенние грезы 2,0 ФИГУРНЫЕ ТОРТЫ- МАСТИКА",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 854,
+    "ItemName": "Шедевр 2,0 ФИГУРНЫЕ ТОРТЫ- МАСТИКА",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 855,
+    "ItemName": "Шедевр 3,0 ФИГУРНЫЕ ТОРТЫ- МАСТИКА",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 856,
+    "ItemName": "Весенние грезы 4,0 ФИГУРНЫЕ ТОРТЫ- МАСТИКА",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 857,
+    "ItemName": "Полянка 0,5кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 858,
+    "ItemName": "Мини пирожки \"Добрынинские\" с капустой 0,15 уп. ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 859,
+    "ItemName": "Мини пирожки \"Добрынинские\" с курицей 0,15 уп. ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 860,
+    "ItemName": "Мини пирожки \"Добрынинские\" с мясом 0,15 уп. ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 861,
+    "ItemName": "Мини пирожки \"Добрынинские\" с вишней 0,14 уп. ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 862,
+    "ItemName": "Пирог \"Добрынинский\" \"Испанка маковая\" 0,5 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 863,
+    "ItemName": "Сахарная бумага сырье",
+    "Description": "",
+    "LifeTime": 1
+  },
+  {
+    "index": 864,
+    "ItemName": "Пирожки \"Добрынинские\" с мясом 0,07 ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 865,
+    "ItemName": "Пирожки \"Добрынинские\" с курицей 0,07 ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 866,
+    "ItemName": "Пирожки \"Добрынинские\" с капустой 0,07 ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 867,
+    "ItemName": "Пирожки \"Добрынинские\" с вишней 0,07 ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 868,
+    "ItemName": "Праздничный 1.2 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 869,
+    "ItemName": "Москва 0,85(коробка пластик) ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 870,
+    "ItemName": "Пирожки \"Добрынинские\" с яблочной начинкой 0,07 ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 871,
+    "ItemName": "Пирожок постный \"Добрынинский\" с вишней 0,1 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 872,
+    "ItemName": "Полина с фруктами 0,5 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 873,
+    "ItemName": "Москва 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 874,
+    "ItemName": "Креп де Пари карамельный 1,0 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 875,
+    "ItemName": "Креп де Пари клубничный 1,0 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 876,
+    "ItemName": "Креп де Пари шоколадный 1,0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 877,
+    "ItemName": "(не_исп)Пасха творожная 0,42 КУЛИЧИ не работаем",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 878,
+    "ItemName": "Ореховый по королевски 0,83кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 879,
+    "ItemName": "Наполеон 0.415кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 880,
+    "ItemName": "Крой пирожное - комплект 160 шт. Коробки_Упаковка",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 881,
+    "ItemName": "Мусс тропический 1,0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 882,
+    "ItemName": "Мусс три шоколада 1,0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 883,
+    "ItemName": "Пирожное Наполеон десертный с малиной 0,18 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 884,
+    "ItemName": "Пирожное Наполеон десертный с вишней 0,19 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 885,
+    "ItemName": "Эстерхази 0,45 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 886,
+    "ItemName": "Киевский 0,35 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 887,
+    "ItemName": "Графские развалины 0,35 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 888,
+    "ItemName": "Слоен.труб.с белк.кремом  в уп. 0.1 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 889,
+    "ItemName": "Шоколадный с фото 2,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 890,
+    "ItemName": "Классический  с фото 2,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 891,
+    "ItemName": "Особая Москва 2,0 ФИГУРНЫЕ ТОРТЫ- МАСТИКА",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 892,
+    "ItemName": "Особая Москва 6,0 ФИГУРНЫЕ ТОРТЫ- МАСТИКА",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 893,
+    "ItemName": "Любимый 2,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 894,
+    "ItemName": "Любимый 3,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 895,
+    "ItemName": "Наслаждение 2,0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 896,
+    "ItemName": "Наслаждение 3,0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 897,
+    "ItemName": "Корзина с цветами 2,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 898,
+    "ItemName": "Мишка (детский) 3,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 899,
+    "ItemName": "Хризантемы 2,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 900,
+    "ItemName": "Шоколадный аромат 2,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 901,
+    "ItemName": "Шоколадный аромат 3,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 902,
+    "ItemName": "Букет 2,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 903,
+    "ItemName": "Корзиночки ассорти 0,256 мини (8шт.) ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 904,
+    "ItemName": "Весенний вальс 2,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 905,
+    "ItemName": "Рулетта меренговая с орехом и клюквой 0,25 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 906,
+    "ItemName": "Милашка 2,2 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 907,
+    "ItemName": "Чизкейк с ягодами 1,3 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 908,
+    "ItemName": "Корзиночки ассорти 0,128 мини (4шт.) ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 909,
+    "ItemName": "Комплимент 0,65 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 910,
+    "ItemName": "Шоколадный аромат 1,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 911,
+    "ItemName": "Добрынинская птичка 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 912,
+    "ItemName": "Добрынинская птичка 1,0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 913,
+    "ItemName": "Фламинго 0,9 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 914,
+    "ItemName": "Эльфи 2,0 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 915,
+    "ItemName": "Мусс три шоколада 2,0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 916,
+    "ItemName": "Изделие Сочинское 0,22 Э-ПР-ЦИЯ ВРЕМЕННО НЕ РАБОТАЕМ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 917,
+    "ItemName": "Пирожное «Графские развалины» уп. 0,135 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 918,
+    "ItemName": "Пирог Добрынинский творожный с вишней 0,8 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 919,
+    "ItemName": "Пирог Добрынинский творожный с лимоном 0,8 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 920,
+    "ItemName": "Торт Линкейк 0,8 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 921,
+    "ItemName": "Рыжик 0,95 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 922,
+    "ItemName": "Воздушное с кремом в уп. 0.09 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 923,
+    "ItemName": "Корз. мини с варен. сгущ. и минд. лепест в уп. 0,140 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 924,
+    "ItemName": "Добрынинская птичка с халвой в уп. 0,34 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 925,
+    "ItemName": "Корз. с варен. сгущ. и минд. лепест в уп. 0,32 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 926,
+    "ItemName": "Мини торт Медово-сметанный 0,24 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 927,
+    "ItemName": "Мини торт Малиновый 0,23 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 928,
+    "ItemName": "Киевский 0.8 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 929,
+    "ItemName": "Мини торт Ореховый по-московски 0,17 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 930,
+    "ItemName": "Корзиночка  восточная в уп. 0.16 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 931,
+    "ItemName": "Корз. с варен. сгущ. и минд. лепест в уп. 0,16 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 932,
+    "ItemName": "Бисквитное со сливоч. кремом в уп. 0,225 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 933,
+    "ItemName": "Рассвет 2,2 ФИГУРНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 934,
+    "ItemName": "Кекс Добрынинский 0,5 Э-ПР-ЦИЯ ВРЕМЕННО НЕ РАБОТАЕМ",
+    "Description": "",
+    "LifeTime": 15
+  },
+  {
+    "index": 935,
+    "ItemName": "Тайный вечер 1,0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 936,
+    "ItemName": "Ночные грёзы 0,9 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 937,
+    "ItemName": "Шоколадно- кофейный 1,1 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 938,
+    "ItemName": "Торт Ассорти 1,025 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 939,
+    "ItemName": "Картошка глазированная в уп. 0,08 ТЕАТР",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 940,
+    "ItemName": "Пирожное «Графские развалины» в уп. 0,045 ТЕАТР",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 941,
+    "ItemName": "Слоен. изд. «Добрынинское» с твор. и вишн. нач. в уп. 0,1 ТЕАТР",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 942,
+    "ItemName": "ПАКЕТ Добрынинский майка (белый) СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "Description": "",
+    "LifeTime": 1095
+  },
+  {
+    "index": 943,
+    "ItemName": "ПАКЕТ Добрынинский майка (белый) БОЛ. СОПУТСТВУЮЩИЕ ТОВАРЫ",
+    "Description": "",
+    "LifeTime": 1095
+  },
+  {
+    "index": 944,
+    "ItemName": "Свеча для торта музыкальная \"Тюльпан\",фиолет. 14,5х6см Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 945,
+    "ItemName": "Пирожное Наполеон десертный с вишней в уп. 0,19 ТЕАТР",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 946,
+    "ItemName": "Камелия 2,0 ФИГУРНЫЕ ТОРТЫ- МАСТИКА",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 947,
+    "ItemName": "Камелия 5,0 ФИГУРНЫЕ ТОРТЫ- МАСТИКА",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 948,
+    "ItemName": "Малиновый 0,92 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 949,
+    "ItemName": "Грушевый 0,6 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 950,
+    "ItemName": "Лимонно-маковый 0,5 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 951,
+    "ItemName": "Креп де Пари вишневый 1,0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 952,
+    "ItemName": "Черный лес в упак.(3шт) 0,27 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 953,
+    "ItemName": "Пирожки \"Добрынинские\" с печенью 0,07 ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 954,
+    "ItemName": "Красный бархат 0,5 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 955,
+    "ItemName": "Эклер \"Добрынинский\" шоколадный уп. 0,14 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 956,
+    "ItemName": "Тарт с вишнево-творожн. начинкой 95г ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 957,
+    "ItemName": "Красный бархат со сливочно-твор. начинкой 240г ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 958,
+    "ItemName": "Пирожок «Добрынинский» с картошкой и грибами 70г ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 959,
+    "ItemName": "Пирожное бисквитное \"Медовое\" 0,225 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 960,
+    "ItemName": "Домашний морковный 0.55 кг Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 961,
+    "ItemName": "Пир. бискв. \"Медово - сметанное\" 0,225 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 962,
+    "ItemName": "Торт суфле Малиновый 0,95 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 963,
+    "ItemName": "Эклер \"Добрынинский\" ванильный уп. 0,15 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 964,
+    "ItemName": "Эклер \"Добрынинский\" карамельный уп. 0,15 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 965,
+    "ItemName": "Эклер \"Добрынинский\" малиновый уп. 0,15 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 966,
+    "ItemName": "Эклер \"Добрынинский\" маракуйя уп. 0,15 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 967,
+    "ItemName": "Вишня в шоколаде 1кг Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 968,
+    "ItemName": "Эклер \"Добрынинский\" фисташковый уп. 0,15 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 969,
+    "ItemName": "Эклер \"Добрынинский\" шоколадный уп. 0,15 Пирожные врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 970,
+    "ItemName": "Торт Поп Ит 0,6 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 971,
+    "ItemName": "Дольче Вита 0,6 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 972,
+    "ItemName": "Тарт с творожно - банан. начинкой 95г ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 973,
+    "ItemName": "Блинчики «Добрынинские» с мясной начинкой 0,24 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 974,
+    "ItemName": "Блинчики «Добрынинские» с творогом и вишн. нач. 0,24 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 975,
+    "ItemName": "Блинчики «Добрынинские» с бруснично - ябл. нач. 0,24 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 976,
+    "ItemName": "Молочный бриз 0,9 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 977,
+    "ItemName": "Символ года 0,5 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 978,
+    "ItemName": "Йогурт абрикос-манго 270г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 979,
+    "ItemName": "Свеча для торта цифра \"3\" ободок цветной, МИКС Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 980,
+    "ItemName": "Свеча для торта цифра \"7\" ободок цветной, МИКС Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 981,
+    "ItemName": "Свеча для торта цифра \"1\" ободок цветной, МИКС Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 982,
+    "ItemName": "Свеча для торта цифра \"4\" ободок цветной, МИКС Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 983,
+    "ItemName": "Свеча для торта цифра \"8\" ободок цветной, МИКС Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 984,
+    "ItemName": "Свеча для торта цифра \"0\" ободок цветной, МИКС Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 985,
+    "ItemName": "Свеча для торта цифра \"6\" ободок цветной, МИКС Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 986,
+    "ItemName": "Свеча для торта цифра \"9\" ободок цветной, МИКС Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 987,
+    "ItemName": "Свеча для торта цифра \"5\" ободок цветной, МИКС Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 3650
+  },
+  {
+    "index": 988,
+    "ItemName": "Блинчики «Добрынинские» 0,4 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 989,
+    "ItemName": "Пирожок постный \"Добрынинский\" с вишней 0,07 ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 990,
+    "ItemName": "Пирожок постный \"Добрынинский\" с капустой 0,07 ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 991,
+    "ItemName": "Пирожок постный \"Добрынинский\" с яблочной начинкой 0,07 ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 992,
+    "ItemName": "Пирожок постный \"Добрынинский\" с картошкой и грибами 0,07 ПИРОГИ и ПИРОЖКИ не работаем",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 993,
+    "ItemName": "По-Киевски 0,6 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 994,
+    "ItemName": "Сказочные узоры 0,4 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 995,
+    "ItemName": "Сказочный сундучок 0,38 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 996,
+    "ItemName": "Шоколадное драже \"Гравий\" 100гр, Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 425
+  },
+  {
+    "index": 997,
+    "ItemName": "Варенье из грецких орехов AGROYAN'S, 430 гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 998,
+    "ItemName": "Варенье из ежевики AGROYAN'S, 430 гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 999,
+    "ItemName": "Джем из клубники AGROYAN'S, 430 гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 1000,
+    "ItemName": "Джем из фейхоа AGROYAN'S, 430 гр Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 1001,
+    "ItemName": "Мадонна 0,5 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1002,
+    "ItemName": "Рулетики песочные с орехами 0,175 Э-ПР-ЦИЯ ВРЕМЕННО НЕ РАБОТАЕМ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1003,
+    "ItemName": "Печенье Альфахорес в уп. 0,18 ПЕЧЕНЬЕ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1004,
+    "ItemName": "Кольцо песочное с арахисом 0,15 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1005,
+    "ItemName": "Рулет бискв. Клубн. со сливк. 0,4 РУЛЕТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1006,
+    "ItemName": "Пакет майка МАЛЕНЬКИЙ Коробки_Упаковка",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1007,
+    "ItemName": "Корзин.с кремом и завар.п/ф в уп. 0.3 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1008,
+    "ItemName": "Корзиночка  восточная в уп. 0.32 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1009,
+    "ItemName": "Мусс два шоколада 1.8 ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1010,
+    "ItemName": "Картошка глазированная  в уп.0.49(0,035х14) ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1011,
+    "ItemName": "Медовый 1кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1012,
+    "ItemName": "НОЧЬ Хлеб \"Орловский\" 0,7 ПУШКИНОХЛЕБ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1013,
+    "ItemName": "Остров сокровищ 1.0 Торты-врем. не работаем",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1014,
+    "ItemName": "Каравай Свадебный 1,5 ПИРОГИ и ПИРОЖКИ \"ДОБРЫНИНСКИЕ\"",
+    "Description": "",
+    "LifeTime": 72
+  },
+  {
+    "index": 1015,
+    "ItemName": "Наполеон с зав. кр.\"Патиссьер\" упак.0,27 ПИРОЖНЫЕ (упаковка)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1016,
+    "ItemName": "Эстерхази 0,8кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1017,
+    "ItemName": "Белиссимо 0,9кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1018,
+    "ItemName": "Медово-сметанный 0,95кг ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1019,
+    "ItemName": "Шарм заказной 1,8 ЗАКАЗНЫЕ ТОРТЫ",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 1020,
+    "ItemName": "Вост.слад. набор КНАФЕ фисташки/кешью 200гр ВОСТОЧНЫЕ СЛАДОСТИ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1021,
+    "ItemName": "Вост.слад. ассорти ФИСТАШКИ 500гр ВОСТОЧНЫЕ СЛАДОСТИ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1022,
+    "ItemName": "Кофе Cafe Bourbon Original 100г стекло КОФЕ ШТУЧНЫЙ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1023,
+    "ItemName": "Пакет майка БОЛЬШОЙ Коробки_Упаковка",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1024,
+    "ItemName": "Вост.слад. АССОРТИ ФИСТАШКИ 1кг ВОСТОЧНЫЕ СЛАДОСТИ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1025,
+    "ItemName": "Кефир Бифидум мдж 1% 350г п/стак БЗМЖ КЕФИР",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1026,
+    "ItemName": "Сметана мдж 30% 330г стекл. БЗМЖ СМЕТАНА",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1027,
+    "ItemName": "Ряженка мдж 4% 500г п/стак БЗМЖ ПРОЧИЕ МОЛОЧНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1028,
+    "ItemName": "Простокваша мечник. мдж 4% 300г п/стак БЗМЖ ПРОЧИЕ МОЛОЧНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1029,
+    "ItemName": "Ряженка Бифидум мдж 1% 350г п/стак БЗМЖ ПРОЧИЕ МОЛОЧНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1030,
+    "ItemName": "Творог мдж 5% 350г п/стак БЗМЖ ТВОРОГ/ ТВОРОЖЕНЫЙ КРЕМ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1031,
+    "ItemName": "Брауни  90 г ПЛАНЕТА  (ПРЕСТИЖ) пирожные",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 1032,
+    "ItemName": "МАСЛО АЛТАЙСКОЕ 82% 200 г БЗМЖ МАСЛО СЛИВОЧНОЕ",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 1033,
+    "ItemName": "Сливки мдж 20% 240г БЗМЖ ПРОЧИЕ МОЛОЧНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 1034,
+    "ItemName": "СЫРНИКИ творожные 0,33кг БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1035,
+    "ItemName": "Кофе Senator Jamaica Blue 90г стек КОФЕ ШТУЧНЫЙ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1036,
+    "ItemName": "Квас живой традиц. \"Натуральн. хозяйство\" 1л КВАС, ХУМУС",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 1037,
+    "ItemName": "Квас живой традиц. \"Натуральн. хозяйство\" 0,5л КВАС, ХУМУС",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 1038,
+    "ItemName": "Салат Сельдь под шубой 200г КУЛИНАРИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1039,
+    "ItemName": "Москва 1кг (картон) ТОРТЫ",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1040,
+    "ItemName": "БЕЛЕВСКАЯ пастила БЕЗ САХАРА Классическая 180 г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 1041,
+    "ItemName": "Йогурт Греческий 6% (б/|наполнителя) 230 г п/стак БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 1042,
+    "ItemName": "Круассан \"Добрынинский\" с творожной начинкой 0,390 кг КРУАССАНЫ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1043,
+    "ItemName": "Сметана мдж 15% 250г п\\стак БЗМЖ СМЕТАНА",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1044,
+    "ItemName": "Торт \"Манго-маракуйя\" 123 гр. ПЛАНЕТА  (ПРЕСТИЖ) пирожные",
+    "Description": "",
+    "LifeTime": 270
+  },
+  {
+    "index": 1045,
+    "ItemName": "Печенье песочное \"Фортуна\" с пломбиром 0,270 кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1046,
+    "ItemName": "Хрустящие колечки с сахаром 0,075 кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 1047,
+    "ItemName": "Чиполлино с кунжутом 0,150 кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 1048,
+    "ItemName": "Суфле йогуртовое с персиком и маракуйей 140 г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1049,
+    "ItemName": "Суфле йогуртовое с малиной 140 г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1050,
+    "ItemName": "Паштет Французский 160 гр КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 40
+  },
+  {
+    "index": 1051,
+    "ItemName": "Колбаса  вареная \"Докторская\" в/с ( в синюге) , порц., в/у на вылет",
+    "Description": "",
+    "LifeTime": 20
+  },
+  {
+    "index": 1052,
+    "ItemName": "Сало белорусское соленое, вес на вылет",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 1053,
+    "ItemName": "Мешалка деревянная для кофе 18 см (х10000) АРТЛАСТ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 1054,
+    "ItemName": "САХАР-ПЕСОК 5 грамм С ЛОГОТИПОМ _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 1055,
+    "ItemName": "Чизкейк  \"New-York\" (классический) 113 гр.+ ПЛАНЕТА  (ПРЕСТИЖ) пирожные",
+    "Description": "",
+    "LifeTime": 547
+  },
+  {
+    "index": 1056,
+    "ItemName": "Марципановая буханка Центис100 гр КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1057,
+    "ItemName": "Сырок творожный глазир.с ванилином 26% Свитлогорье 50 гр БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1058,
+    "ItemName": "Сырок творожный  глазир.с какао 26% Свитлогорье 50 гр БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1059,
+    "ItemName": "Булочка Улитка немецкая с творогом и помадкой 110 гр КРУАССАНЫ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 1060,
+    "ItemName": "Лукошко кокосовое с начинкой со вкусом пломбира 0,270 кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 15
+  },
+  {
+    "index": 1061,
+    "ItemName": "Лукошко с малиновым джемом и шоколадным декором 0,260 кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 15
+  },
+  {
+    "index": 1062,
+    "ItemName": "Вост.слад. АССОРТИ АРАХИС 400гр ВОСТОЧНЫЕ СЛАДОСТИ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1063,
+    "ItemName": "Вост.слад.набор КНАФЕ АРАХИС 400гр ВОСТОЧНЫЕ СЛАДОСТИ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1064,
+    "ItemName": "ЭЧ-ПОЧМАК С КУРИЦЕЙ 100г БАХЕТЛЕ  мелкоштучка",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 1065,
+    "ItemName": "ПЕРЕМЯЧ С МЯСОМ 90г БАХЕТЛЕ  мелкоштучка",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 1066,
+    "ItemName": "ВОСТОЧНЫЕ СЛАДОСТИ МУЧНЫЕ Ассорти с арахисом 400 гр ВОСТОЧНЫЕ СЛАДОСТИ через РЦ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 1067,
+    "ItemName": "ВОСТОЧНЫЕ СЛАДОСТИ МУЧНЫЕ НАБОР «КНАФЕ» (АРАХИС) 400 гр ВОСТОЧНЫЕ СЛАДОСТИ через РЦ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 1068,
+    "ItemName": "Н-р конф BUSHERON GOURMET с миндалем 180г НАБОРЫ КОНФЕТ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1069,
+    "ItemName": "Н-р конф BUSHERON GOURMET с фисташкой 180г НАБОРЫ КОНФЕТ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1070,
+    "ItemName": "пирож. Берлинское  400 г Печенье Весна М",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 1071,
+    "ItemName": "Гранола \"Ягодная формула\" 400гр ПОЛЕЗНАЯ ПОЛКА",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1072,
+    "ItemName": "Гранола \"Ореховая формула\"400гр ПОЛЕЗНАЯ ПОЛКА",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1073,
+    "ItemName": "Козинаки Дети солнца 300гр ТРОФИМОВ",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 1074,
+    "ItemName": "Творожник с черникой 140 гр БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 1075,
+    "ItemName": "Творожник с вишней 140 гр БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 1076,
+    "ItemName": "Твист творожный 0,250 кг КРУАССАНЫ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 120
+  },
+  {
+    "index": 1077,
+    "ItemName": "Н-р конф Москва 200 г НАБОРЫ КОНФЕТ",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 1078,
+    "ItemName": "Пакетированный чай на чайник Золотой Ассам 15 пак.* _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 1079,
+    "ItemName": "Пакетированный чай на чайник Цейлонский с чабрецом  15 пак.* _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 300
+  },
+  {
+    "index": 1080,
+    "ItemName": "Пакетированный чай на чайник Ароматный жасмин 15 пак.* _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 1081,
+    "ItemName": "Пакетированный чай на чайник Цветочный ройбуш 15 пак.* _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 1082,
+    "ItemName": "Пакетированный чай на чайник Земляничная поляна 15 пак* _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 1083,
+    "ItemName": "Пакетированный чай на чайник Молочный улун 15 пак.* _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 1084,
+    "ItemName": "Мини-Штрудель с лимонной начинкой 0,200 кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1085,
+    "ItemName": "Хрустики  в белой глазури 0,090 кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 1086,
+    "ItemName": "Сосиски Молочные вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1087,
+    "ItemName": "Сосиски Сливочные вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1088,
+    "ItemName": "ДЕНЬ Хлеб \"Сергиевский\" бездрож.0,9кг ПУШКИНОХЛЕБ",
+    "Description": "",
+    "LifeTime": 96
+  },
+  {
+    "index": 1089,
+    "ItemName": "ДЕНЬ Хлеб \"Тосканский\" на пшен закваске 1кг (шт.) ПУШКИНОХЛЕБ",
+    "Description": "",
+    "LifeTime": 96
+  },
+  {
+    "index": 1090,
+    "ItemName": "ДЕНЬ Хлеб из 100 % ржаной муки \"Афанасьевский\" бездр. 1,3 кг ПУШКИНОХЛЕБ",
+    "Description": "",
+    "LifeTime": 96
+  },
+  {
+    "index": 1091,
+    "ItemName": "МАРМЕЛАД формовой Фруктовое Ассорти, вес КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1092,
+    "ItemName": "Пирожное \"Песочная полоска с яблочной начинкой\"  0,075кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 1093,
+    "ItemName": "Пирожное \"Песочная полоска с лимонной начинкой\" 0,075кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 1094,
+    "ItemName": "Пирожное \"Песочная полоска с вареной сгущенкой\" 0,075кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 1095,
+    "ItemName": "Стакан 300мл NDW12 \"Черный\" (волна) (TL90) АРТЛАСТ",
+    "Description": "",
+    "LifeTime": 1095
+  },
+  {
+    "index": 1096,
+    "ItemName": "Сироп ВАНИЛЬ Барлайн 1л СИРОПЫ для кофе",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1097,
+    "ItemName": "Сироп ЛАВАНДА  Барлайн 1л СИРОПЫ для кофе",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1098,
+    "ItemName": "Сироп БАНАН ЖЕЛТЫЙ Барлайн 1л СИРОПЫ для кофе",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1099,
+    "ItemName": "Сироп АПЕЛЬСИН  Барлайн 1л СИРОПЫ для кофе",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1100,
+    "ItemName": "Чай на чайник (пакетированный) Русские Традиции  15 пак* _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 274
+  },
+  {
+    "index": 1101,
+    "ItemName": "Сироп КАРАМЕЛЬ  Барлайн 1л СИРОПЫ для кофе",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1102,
+    "ItemName": "Сироп ЗЕЛЕНАЯ МЯТА  Барлайн 1л СИРОПЫ для кофе",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 1103,
+    "ItemName": "Сироп МАЛИНА Барлайн 1л СИРОПЫ для кофе",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1104,
+    "ItemName": "Сироп КОКОС  Барлайн 1л СИРОПЫ для кофе",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1105,
+    "ItemName": "Сироп МИНДАЛЬ Барлайн 1л СИРОПЫ для кофе",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1106,
+    "ItemName": "Пирожное \"кольца с творогом\" (в сахарной пудре) 0,300кг ПИРОЖНЫЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1107,
+    "ItemName": "Гусь с яблоками  450г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1108,
+    "ItemName": "Куропатка с апельсинами 450г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1109,
+    "ItemName": "Рулет куриный классический 400г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 1110,
+    "ItemName": "Шоколадные Сигары набор BIND 100гр 23 февраля 8 марта",
+    "Description": "",
+    "LifeTime": 548
+  },
+  {
+    "index": 1111,
+    "ItemName": "ДЕНЬ Хлеб \"Пушкинский\" ржано-пшеничный заварной бездрожжевой 2,0 кг ПУШКИНОХЛЕБ",
+    "Description": "",
+    "LifeTime": 96
+  },
+  {
+    "index": 1112,
+    "ItemName": "Мини-эклеры \"Кокосовое чудо\" с начинкой со вкусом сгущенного молока (пирожное заварное) 0,190кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 1113,
+    "ItemName": "Мини-эклеры с начинкой со вкусом сгущенного молока (пирожное заварное) 0,200г ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 15
+  },
+  {
+    "index": 1114,
+    "ItemName": "Блины - жюльен 210г Кулинария НВН(НЯМ-НЯМ)",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 1115,
+    "ItemName": "Котлета по-киевски с картофельным пюре 250гр. Кулинария НВН(НЯМ-НЯМ)",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1116,
+    "ItemName": "Крышка ПС с питейником D-80, Оранжевая АРТЛАСТ",
+    "Description": "",
+    "LifeTime": 1095
+  },
+  {
+    "index": 1117,
+    "ItemName": "Крышка ПС с питейником D-90, Черная АРТЛАСТ",
+    "Description": "",
+    "LifeTime": 1095
+  },
+  {
+    "index": 1118,
+    "ItemName": "Пельмени \"Добрынинские\"  из говядины и свинины 700 гр 3.ГОТОВАЯ ПРОДУКЦИЯ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 1119,
+    "ItemName": "Вареники \"Добрынинские\"  с вишней 450 гр 3.ГОТОВАЯ ПРОДУКЦИЯ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 1120,
+    "ItemName": "Вареники \"Добрынинские\" с картофелем и луком 450 гр 3.ГОТОВАЯ ПРОДУКЦИЯ",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 1121,
+    "ItemName": "Трубочки без изгиба черные 240*8 мм (в инд упаковке) Россия АРТЛАСТ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1122,
+    "ItemName": "Печенье Туиль Безе Ореховое 80г ПЭТ КОНДИТЕРСКАЯ ВЫПЕЧКА",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1123,
+    "ItemName": "ДЕНЬ Хлеб Крестьянский с полбяной мукой 750гр ПУШКИНОХЛЕБ",
+    "Description": "",
+    "LifeTime": 96
+  },
+  {
+    "index": 1124,
+    "ItemName": "ДЕНЬ Пирог \"Невский\" в/с 200гр ПУШКИНОХЛЕБ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1125,
+    "ItemName": "Пикантная грудинка в/к вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1126,
+    "ItemName": "Манты по-восточному 290гр Кулинария НВН(НЯМ-НЯМ)",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1127,
+    "ItemName": "Вертута с тыквой 110гр К-ЭКСПРО мелкоштучка",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1128,
+    "ItemName": "Кольцо с арахисом 75гр К-ЭКСПРО мелкоштучка",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1129,
+    "ItemName": "Молдавский пирог с яблоком 250гр К-ЭКСПРО мелкоштучка",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1130,
+    "ItemName": "Сочник лимонный 65гр К-ЭКСПРО мелкоштучка",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1131,
+    "ItemName": "Конфеты КОКО 1 шт КОНФЕТЫ ВЕСОВЫЕ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1132,
+    "ItemName": "Круассан миндальный 120г ХЛЕБ НА РАДОСТЬ мелкоштучка",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1133,
+    "ItemName": "МОЛОКО ультрапастер.3,2% _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 1134,
+    "ItemName": "Песочное печенье \"Панда\" с вишневой начинкой и молочной глазурью, 0,33кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1135,
+    "ItemName": "СТАКАН для КОФЕ БРЕНДИРОВАННЫЙ 250 мл АРТЛАСТ",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 1136,
+    "ItemName": "Сметана топленая 15% 250г БЗМЖ СМЕТАНА",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1137,
+    "ItemName": "Сироп Соленая карамель Барлайн 1л. СИРОПЫ для кофе",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 1138,
+    "ItemName": "СЛИВКИ ДЛЯ КОФЕ _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 1139,
+    "ItemName": "Меренга с миндалём 70г(2шт*35г) ЗОЛОТОЙ КОЛОС пирожные",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1140,
+    "ItemName": "Перепелка с брусникой  450г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 1141,
+    "ItemName": "Зельц  Немецкий в пузыре  450г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1142,
+    "ItemName": "Сдобная булочка \"Гребешок\" с маковой начинкой 90г ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 1143,
+    "ItemName": "Хлеб Зерновой бездрож. 1кг ПУШКИНОХЛЕБ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1144,
+    "ItemName": "Карбонад Гурме с/к вес на вылет",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1145,
+    "ItemName": "Колбаса  Хуторская  п/к вес на вылет",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1146,
+    "ItemName": "Сосиски Венские вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1147,
+    "ItemName": "Сардельки Фермерские вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1148,
+    "ItemName": "Студень говяжий с хреном 430г 15294 Рублевские колбасы СТМ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1149,
+    "ItemName": "Студень Сельский  430г 15293 Рублевские колбасы СТМ",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 1150,
+    "ItemName": "Колбаса Докторская в синюге вареная вес (порц. в/у) 15291 Рублевские колбасы вес СТМ",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 1151,
+    "ItemName": "Колбаса Телячья вареная вес (порц. в/у) 15285 Рублевские колбасы вес СТМ",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 1152,
+    "ItemName": "Колбаса Еврейская полусухая  вес (порц. в/у) 15284 Рублевские колбасы вес СТМ",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 1153,
+    "ItemName": "Сало запеченное с можжевельником вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 1154,
+    "ItemName": "Суфле молоч. с ванилью в молоч.шоколаде.50гБЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1155,
+    "ItemName": "Пирожное Мандарин в апельсине 105г ПЛАНЕТА  (ПРЕСТИЖ) пирожные",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 1156,
+    "ItemName": "Улитка с изюмом 85г На вылет",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1157,
+    "ItemName": "Салат  Мимоза  250 гр Кулинария Арамье",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1158,
+    "ItemName": "Горячий шоколад \"Ristora\", 1000гр*10 для вендинговых автоматов, шт _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 730
+  },
+  {
+    "index": 1159,
+    "ItemName": "Донат глазир.Карамель с начинкой со вкусом карамели 67г (не использовать) На вылет",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1160,
+    "ItemName": "КОФЕ (КОФЕЙНЯ) Верле _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 1161,
+    "ItemName": "Донат глазир. Ягодный микс с ягод. начинкой 70г На вылет",
+    "Description": "",
+    "LifeTime": 240
+  },
+  {
+    "index": 1162,
+    "ItemName": "Зефир МОЛОЧНЫЙ в молоч.бельг.шокол.60г БЗМЖ на вылет",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1163,
+    "ItemName": "Напиток имбирный латте \"Матча\" быстрорастворимый  250 г ЧАЙ ШТУЧНЫЙ",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 1164,
+    "ItemName": "Напиток латте \"Матча\" быстрорастворимый  250 г ЧАЙ ШТУЧНЫЙ",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 1165,
+    "ItemName": "Каша рисовая на молоке 300г БЗМЖ ПРОЧИЕ МОЛОЧНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1166,
+    "ItemName": "Плов с курицей 250г Кулинария ПОЛЯНА",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 1167,
+    "ItemName": "Оладьи из брокколи 200 гр Кулинария Арамье",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1168,
+    "ItemName": "Филе куриное жаренное в яйце с рисом и овощами 250 гр Кулинария Арамье",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1169,
+    "ItemName": "Круассан классический 60г ХЛЕБ НА РАДОСТЬ мелкоштучка",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 1170,
+    "ItemName": "Сосиска в тесте XL 120г К-ЭКСПРО мелкоштучка",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1171,
+    "ItemName": "Десерт творож.  чернослив  с грецким  орехом  180гр БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1172,
+    "ItemName": "Торт (Террин)  фисташковый с малиной 100г ПЛАНЕТА  (ПРЕСТИЖ) пирожные",
+    "Description": "",
+    "LifeTime": 150
+  },
+  {
+    "index": 1173,
+    "ItemName": "Сырок творож.Золотая ириска в карамел. глазури 23%  50г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1174,
+    "ItemName": "Пахлава Классика в упак. 40 г ВОСТОЧНЫЕ СЛАДОСТИ",
+    "Description": "",
+    "LifeTime": 240
+  },
+  {
+    "index": 1175,
+    "ItemName": "Мармелад  без сахара со вкусом вишни 170 г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1176,
+    "ItemName": "Мармелад  без сахара  с сухофруктами 170 г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1177,
+    "ItemName": "Мармелад без сахара с грецким орехом 170 г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1178,
+    "ItemName": "СТАКАН для КОФЕ БРЕНДИРОВАННЫЙ 350 мл АРТЛАСТ",
+    "Description": "",
+    "LifeTime": 240
+  },
+  {
+    "index": 1179,
+    "ItemName": "СТАКАН для КОФЕ БРЕНДИРОВАННЫЙ 400 мл АРТЛАСТ",
+    "Description": "",
+    "LifeTime": 240
+  },
+  {
+    "index": 1180,
+    "ItemName": "Сардельки с СЫРОМ МОЦАРЕЛЛА вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1181,
+    "ItemName": "Оладьи из кабачков 200г Кулинария Арамье",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1182,
+    "ItemName": "Корз. с варен. сгущ. и минд. лепест 0,08 ПИРОЖНЫЕ(штучные)",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1183,
+    "ItemName": "Семга филе-кусок с/с 200 г МОРЕПРОДУКТЫ",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 1184,
+    "ItemName": "Форель филе-кусок с/с 200 г МОРЕПРОДУКТЫ",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 1185,
+    "ItemName": "Каша овсяная на молоке 300г БЗМЖ ПРОЧИЕ МОЛОЧНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1186,
+    "ItemName": "Леденцы 3D Животные 30 гр Арт Л.70 КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 240
+  },
+  {
+    "index": 1187,
+    "ItemName": "Пирог с вишней 115 гр ГАРИФУЛЛИНА  мелкоштучка",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1188,
+    "ItemName": "Рулет Сочинский с орехом и изюмом 80г ГАРИФУЛЛИНА  мелкоштучка",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1189,
+    "ItemName": "Рулет с маком 80г ГАРИФУЛЛИНА  мелкоштучка",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1190,
+    "ItemName": "Пахлава Турецкая  \"Ассорти\" 450 г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 240
+  },
+  {
+    "index": 1191,
+    "ItemName": "Сельдь Тихоокеанская филе-кусочки с/с в масле 280 г на вылет Морепродукты",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1192,
+    "ItemName": "Сельдь Тихоокеанская филе с/с вак./уп 300 г МОРЕПРОДУКТЫ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1193,
+    "ItemName": "Марципановая картошка Центис 100гр КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1194,
+    "ItemName": "Печенье злаковое Демидовское с вишней 250 г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1195,
+    "ItemName": "Печенье злаковое Демидовское с цукатами 250 г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1196,
+    "ItemName": "Печенье злаковое Уральское 350 г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1197,
+    "ItemName": "Nemoloko напиток овсяный ванильный 1л _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1198,
+    "ItemName": "Nemoloko напиток кокосовый на рисовой основе 1л _Ингридиенты горячих напитков",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1199,
+    "ItemName": "Пирог с лимоном  120г ГАРИФУЛЛИНА  мелкоштучка",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1200,
+    "ItemName": "Творог пластовой из цельн. молока 4-20%  350г  БЗМЖ ТВОРОГ/ ТВОРОЖЕНЫЙ КРЕМ",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1201,
+    "ItemName": "Заливное с говядиной и овощами 300г ПП КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1202,
+    "ItemName": "Изделие хлебобулочное «Творожное настроение» 0,250 кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 15
+  },
+  {
+    "index": 1203,
+    "ItemName": "Изделие хлебобулочное «Малиновое настроение» 0,250 кг ПЕЧЕНЬЕ (ДОБРЫНИНСКИЙ СТМ)",
+    "Description": "",
+    "LifeTime": 15
+  },
+  {
+    "index": 1204,
+    "ItemName": "Йогурт фруктовый с наполн.Вишня 300г мдж 3,5% БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1205,
+    "ItemName": "Йогурт фруктовый с наполн.Клубника 300г мдж 3,5% БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 1206,
+    "ItemName": "Йогурт фруктовый с наполн.Черника 300г мдж 3,5% БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 1207,
+    "ItemName": "Сэндвич с индейкой 195г Кулинария Арамье",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 1208,
+    "ItemName": "Ролл с курицей 190г Кулинария Арамье",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 1209,
+    "ItemName": "Шоколадное драже \"Лимон в шоколаде\" тёмн. шок. 100гр. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1210,
+    "ItemName": "Шоколадное драже \"Клубника в шоколаде\" мол. шок. 100гр. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1211,
+    "ItemName": "Шоколадное драже \"Вишня в шоколаде\" 100гр, Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1212,
+    "ItemName": "Набор шоколадных конфет \"Фруктовый сундучок\" 220гр. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 540
+  },
+  {
+    "index": 1213,
+    "ItemName": "Напиток Лаймон фрэш  ПЭТ 0,5 л Напитки",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1214,
+    "ItemName": "Йогурт фруктовый с наполн.Малина 300г мдж 3,5% БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 1215,
+    "ItemName": "Мармелад желейный на палочке \"Мармики\" 50 г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 90
+  },
+  {
+    "index": 1216,
+    "ItemName": "Шоколадный батончик  Cadbury Wispa 36 г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1217,
+    "ItemName": "Шоколад молочный  Toblerone 50 г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 540
+  },
+  {
+    "index": 1218,
+    "ItemName": "Сироп ФУНДУК Барлайн 1 л СИРОПЫ для кофе",
+    "Description": "",
+    "LifeTime": 240
+  },
+  {
+    "index": 1219,
+    "ItemName": "Торт Манго-чизкейк 850г ФК.ТОРТЫ",
+    "Description": "",
+    "LifeTime": 21
+  },
+  {
+    "index": 1220,
+    "ItemName": "Пальчики с грецким орехом 200г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 1221,
+    "ItemName": "Пальчики с фисташкой 200г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 10
+  },
+  {
+    "index": 1222,
+    "ItemName": "Кутабы с зеленью и сыром 150г Кулинария НВН(НЯМ-НЯМ)",
+    "Description": "",
+    "LifeTime": 30
+  },
+  {
+    "index": 1223,
+    "ItemName": "БАУРСАК Бахетле 250 г КОНДИТЕРСКАЯ ВЫПЕЧКА",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1224,
+    "ItemName": "Донат глазир.Шоколад с шоколадной начинкой 67г* ХЛЕБПРОМ ОАО мелкоштучка",
+    "Description": "",
+    "LifeTime": 240
+  },
+  {
+    "index": 1225,
+    "ItemName": "Донат глазир. Ягодный микс с ягод. начинкой 70г* ХЛЕБПРОМ ОАО мелкоштучка",
+    "Description": "",
+    "LifeTime": 240
+  },
+  {
+    "index": 1226,
+    "ItemName": "Донат глазир.Карамель с начинкой со вкусом карамели 67г* ХЛЕБПРОМ ОАО мелкоштучка",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1227,
+    "ItemName": "ЗЕФИР молочн. с КОФЕ в молочн.бельг.шок 60г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1228,
+    "ItemName": "Сало белорусское в/у вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1229,
+    "ItemName": "Карбонад с/к вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1230,
+    "ItemName": "Колбаса  Хуторская  трапеза  п/к вес КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1231,
+    "ItemName": "Пряник имбирный глаз.  АРБУЗ 40 г СЕЗОННАЯ ПРОДУКЦИЯ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 1232,
+    "ItemName": "Пряник имбирный глаз. ПАНДА 40 г СЕЗОННАЯ ПРОДУКЦИЯ",
+    "Description": "",
+    "LifeTime": 180
+  },
+  {
+    "index": 1233,
+    "ItemName": "Батончик глаз. Арахис-сол.карамель FitnesSHOCK 50г КОНДИТЕРСКИЕ ИЗДЕЛИЯ ПРОЧИЕ",
+    "Description": "",
+    "LifeTime": 4
+  },
+  {
+    "index": 1234,
+    "ItemName": "Плов с курицей  250г Кулинария Греннис-Фуд",
+    "Description": "",
+    "LifeTime": 7
+  },
+  {
+    "index": 1235,
+    "ItemName": "Десерт творож. черника-малина 15% 180гр БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1236,
+    "ItemName": "Йогурт вишня 270г БЗМЖ ЙОГУРТЫ",
+    "Description": "",
+    "LifeTime": 5
+  },
+  {
+    "index": 1237,
+    "ItemName": "Кутабы  с зеленью 150г Кулинария Бахетле",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1238,
+    "ItemName": "Колбаса САЛЬЧИЧОН с/к нарезка 100г КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 360
+  },
+  {
+    "index": 1239,
+    "ItemName": "Сыр Гауда полутв. 45%  200г БЗМЖ СЫРЫ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1240,
+    "ItemName": "Шоколад Кр.Октябрь Аленка 90 г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1241,
+    "ItemName": "Шоколад Кр.Октябрь Слава 75 г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1242,
+    "ItemName": "Шоколад Бабаевский с пом-слив нач 50 г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1243,
+    "ItemName": "Шоколад Бабаевский с шоколадной нач 50 г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 365
+  },
+  {
+    "index": 1244,
+    "ItemName": "Кофе ЖАРДИН Голд 95г раст.субл.ст/б на вылет кофе штучный",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 1245,
+    "ItemName": "Молоко ВОЛОКОНОВСКОЕ цельное сгущ. с сахаром 270г д/п БЗМЖ СГУЩЕНКА",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 1246,
+    "ItemName": "Шоколад Бабаевский с нач Вишневый брауни и целым фундуком 165 г ШОКОЛАД ПЛИТОЧНЫЙ",
+    "Description": "",
+    "LifeTime": 720
+  },
+  {
+    "index": 1247,
+    "ItemName": "Салат Оливье с курицей 200г Кулинария Греннис-Фуд",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1248,
+    "ItemName": "Вареники на пару с индейкой и капустой 230г Кулинария НВН(НЯМ-НЯМ)",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1249,
+    "ItemName": "Шоколад Кр.Октябрь Аленка 90 г. Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 425
+  },
+  {
+    "index": 1250,
+    "ItemName": "Хлеб  Андреевский 800г КАРАВАЙ СВ",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1251,
+    "ItemName": "Хлеб Степной ржано-пшеничный 1,1кг КАРАВАЙ СВ",
+    "Description": "",
+    "LifeTime": 60
+  },
+  {
+    "index": 1252,
+    "ItemName": "Пудинг творожный ваниль 4% п/ст 130г ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 40
+  },
+  {
+    "index": 1253,
+    "ItemName": "Пудинг творожный карамель 4% п/ст 130г ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 40
+  },
+  {
+    "index": 1254,
+    "ItemName": "Хлеб Купеческий бездр.1000г КАРАВАЙ СВ",
+    "Description": "",
+    "LifeTime": 14
+  },
+  {
+    "index": 1255,
+    "ItemName": "Колбаса с/к \"Фелино\", с/н, в/у (70г) КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 1256,
+    "ItemName": "Колбаса с/к \"Чоризо\", с/н, в/у (70г) КОЛБАСЫ\\МЯСНЫЕ ИЗДЕЛИЯ",
+    "Description": "",
+    "LifeTime": 45
+  },
+  {
+    "index": 1257,
+    "ItemName": "Паннакота малина 180г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 40
+  },
+  {
+    "index": 1258,
+    "ItemName": "Паннакота манго 180г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 40
+  },
+  {
+    "index": 1259,
+    "ItemName": "Паннакота маракуйя с косточкой  180г БЗМЖ ДЕСЕРТЫ",
+    "Description": "",
+    "LifeTime": 40
+  },
+  {
+    "index": 1260,
+    "ItemName": "Каринка под можжевеловой ягодкой в/к, вес РУБЛЕВСКИЕ КОЛБАСЫ вес",
+    "Description": "",
+    "LifeTime": 3
+  },
+  {
+    "index": 1261,
+    "ItemName": "Шоколадное драже \"Малина в темном шоколаде\" (100гр) Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 548
+  },
+  {
+    "index": 1262,
+    "ItemName": "Шоколадное драже \"Инжир в темном шоколаде\" (100 гр) Магазин Электрозаводская",
+    "Description": "",
+    "LifeTime": 365
+  }
+]
