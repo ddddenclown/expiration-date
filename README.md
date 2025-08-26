@@ -89,3 +89,7 @@ python -m app.main
   ```bash
   python -m app.create_faiss
   ```
+- Если устанавливается не тот API KEY, удалите API KEY из env командой:
+```bash
+Remove-Item Env:\OPENAI_API_KEY
+```
